@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Next
-permalink: /next/
+title: Publications
+permalink: /publications/
 ---
 
 Some information about you!
