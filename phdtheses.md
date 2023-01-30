@@ -1,6 +1,6 @@
 ---
-layout: page
-title: Phdtheses
+layout: default
+title: Phd Theses
 permalink: /phdtheses/
 ---
 
