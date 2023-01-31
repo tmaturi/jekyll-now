@@ -1,6 +1,7 @@
 ---
 layout: default
 title: NPI
+permalink: /npi/
 ---
 
 ### Nonparametric Predictive Inference (NPI)
