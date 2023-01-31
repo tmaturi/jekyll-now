@@ -5,7 +5,7 @@ permalink: /phdtheses/
 ---
 
 - Junbin Chen (2019). Contributions to nonparametric predictive inference for bernoulli data with applications in finance. Durham University, UK.
-[PDF](/jekyll-now/pdfs/holder.pdf) Abstract 
+[[PDF]](/jekyll-now/pdfs/holder.pdf)  [[Abstract]](/jekyll-now/pdfs/holder.pdf)
 - Ting He (2019). Nonparametric predictive inference for option pricing based on the binomial tree model. Durham University, UK.
 PDF Abstract 
 - Abdullah Ali H. Ahmadini (2019). Imprecise Statistical Methods for Accelerated Life Testing. Durham University, UK.
