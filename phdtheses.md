@@ -6,6 +6,15 @@ permalink: /phdtheses/
 
 # Phd Theses
 
+- Mr Masad Alrasheedi (2022). Optimal Thresholds for Classification Trees using Nonparametric Predictive Inference. Durham University, UK.
+
+- Mr Ali Mahnashi (2022). Contributions to Nonparametric predictive inference with right-censored data.  Durham University, UK.
+
+- Mr Abdulmajeed Alharbi (2022). Direct Nonparametric predictive inference classification trees. Durham University, UK.
+- 
+- Mr Assamh Al-Luhayb (2021). Smoothed Bootstrap Methods for Right-Censored Data and Bivariate Data. Durham University, UK.
+
+
 - Junbin Chen (2019). Contributions to nonparametric predictive inference for bernoulli data with applications in finance. Durham University, UK.
 [[PDF]](/jekyll-now/pdfs/holder.pdf)  [[Abstract]](/jekyll-now/pdfs/holder.pdf)
 
