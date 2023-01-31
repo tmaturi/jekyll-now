@@ -4,12 +4,21 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
 
-### More Information
+### Professor Frank Coolen
 
-A place to include any other types of information that you'd like to include about yourself.
+[Personal website](https://maths.dur.ac.uk/stats/people/fc/fc.html)
 
-### Contact me
+[Google Scholar](https://scholar.google.co.uk/citations?user=axQ3nTgAAAAJ&hl=en)
 
-hope it works againnn, not working x10
+### Dr Tahani Coolen-Maturi
+
+[Personal website](http://tahanimaturi.com)
+
+[Google Scholar](https://scholar.google.co.uk/citations?user=bxKfo-EAAAAJ)
+
+### Dr Pauline Coolen-Schrijner
+
+[Personal website](https://maths.dur.ac.uk/stats/people/ps/ps.html)
+
+[Google Scholar](https://scholar.google.co.uk/citations?user=9Zbjrx8AAAAJ&hl=en)
