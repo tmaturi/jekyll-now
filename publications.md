@@ -61,42 +61,61 @@ Bib Entry   Link Abstract
 
 - Coolen, F.P.A., Coolen-Schrijner, P., Coolen-Maturi, T., Elkhafifi, F.F., 2013. Nonparametric predictive inference for ordinal data. Communications in Statistics - Theory and Methods 42, 3478–3496.
 Bib Entry   Link Abstract 
-Houlding, B., Coolen, F.P.A., 2012. Nonparametric predictive utility inference . European Journal of Operational Research 221, 222–230.
+
+- Houlding, B., Coolen, F.P.A., 2012. Nonparametric predictive utility inference . European Journal of Operational Research 221, 222–230.
 Bib Entry   Link Abstract 
-Elkhafifi, F.F., Coolen, F.P.A., 2012. Nonparametric predictive inference for accuracy of ordinal diagnostic tests. Journal of Statistical Theory and Practice 6, 681–697.
+
+- Elkhafifi, F.F., Coolen, F.P.A., 2012. Nonparametric predictive inference for accuracy of ordinal diagnostic tests. Journal of Statistical Theory and Practice 6, 681–697.
+Bib Entry   Link Abstract
+
+- Coolen, F.P.A., Al-nefaiee, A.H., 2012. Nonparametric predictive inference for failure times of systems with exchangeable components. Proceedings of the Institution of Mechanical Engineers, Part O: Journal of Risk and Reliability 226, 262–273.
 Bib Entry   Link Abstract 
-Coolen, F.P.A., Al-nefaiee, A.H., 2012. Nonparametric predictive inference for failure times of systems with exchangeable components. Proceedings of the Institution of Mechanical Engineers, Part O: Journal of Risk and Reliability 226, 262–273.
+
+- Coolen-Maturi, T., Coolen-Schrijner, P., Coolen, F.P.A., 2012. Nonparametric Predictive Inference for Binary Diagnostic Tests. Journal of Statistical Theory and Practice 6, 665–680.
 Bib Entry   Link Abstract 
-Coolen-Maturi, T., Coolen-Schrijner, P., Coolen, F.P.A., 2012. Nonparametric Predictive Inference for Binary Diagnostic Tests. Journal of Statistical Theory and Practice 6, 665–680.
+
+- Coolen-Maturi, T., Coolen-Schrijner, P., Coolen, F.P.A., 2012. Nonparametric predictive multiple comparisons of lifetime data. Communications in Statistics - Theory and Methods 41, 4164–4181.
 Bib Entry   Link Abstract 
-Coolen-Maturi, T., Coolen-Schrijner, P., Coolen, F.P.A., 2012. Nonparametric predictive multiple comparisons of lifetime data. Communications in Statistics - Theory and Methods 41, 4164–4181.
+
+- Elsaeiti, M.A., Coolen, F.P.A., 2012. A Nonparametric predictive approach to sequential acceptance problems. Journal of Statistical Theory and Practice 6, 383–401.
 Bib Entry   Link Abstract 
-Elsaeiti, M.A., Coolen, F.P.A., 2012. A Nonparametric predictive approach to sequential acceptance problems. Journal of Statistical Theory and Practice 6, 383–401.
+
+- Coolen-Maturi, T., Coolen, F.P.A., 2011. Unobserved, re-defined, unknown or removed failure modes in competing risks. Proceedings of the Institution of Mechanical Engineers, Part O: Journal of Risk and Reliability 225, 461–474.
 Bib Entry   Link Abstract 
-Coolen-Maturi, T., Coolen, F.P.A., 2011. Unobserved, re-defined, unknown or removed failure modes in competing risks. Proceedings of the Institution of Mechanical Engineers, Part O: Journal of Risk and Reliability 225, 461–474.
+
+- Abellán, J., Baker, R.M., Coolen, F.P.A., 2011. Maximising entropy on the nonparametric predictive inference model for multinomial data . European Journal of Operational Research 212, 112–122.
 Bib Entry   Link Abstract 
-Abellán, J., Baker, R.M., Coolen, F.P.A., 2011. Maximising entropy on the nonparametric predictive inference model for multinomial data . European Journal of Operational Research 212, 112–122.
+
+- Roelofs, V.J., Coolen, F.P.A., Hart, A.D.M., 2011. Nonparametric Predictive Inference for Exposure Assessment. Risk Analysis 31, 218–227.
 Bib Entry   Link Abstract 
-Roelofs, V.J., Coolen, F.P.A., Hart, A.D.M., 2011. Nonparametric Predictive Inference for Exposure Assessment. Risk Analysis 31, 218–227.
+
+- Baker, R.M., Coolen, F.P.A., 2010. Nonparametric predictive category selection for multinomial data. Journal of Statistical Theory and Practice 4, 509–526.
 Bib Entry   Link Abstract 
-Baker, R.M., Coolen, F.P.A., 2010. Nonparametric predictive category selection for multinomial data. Journal of Statistical Theory and Practice 4, 509–526.
+
+- Maturi, T.A., Coolen-Schrijner, P., Coolen, F.P.A., 2010. Nonparametric predictive inference for competing risks. Proceedings of the Institution of Mechanical Engineers, Part O: Journal of Risk and Reliability 224, 11–26.
 Bib Entry   Link Abstract 
-Maturi, T.A., Coolen-Schrijner, P., Coolen, F.P.A., 2010. Nonparametric predictive inference for competing risks. Proceedings of the Institution of Mechanical Engineers, Part O: Journal of Risk and Reliability 224, 11–26.
+
+- Coolen, F.P.A., Augustin, T., 2009. A nonparametric predictive alternative to the Imprecise Dirichlet Model: The case of a known number of categories . International Journal of Approximate Reasoning 50, 217–230.
 Bib Entry   Link Abstract 
-Coolen, F.P.A., Augustin, T., 2009. A nonparametric predictive alternative to the Imprecise Dirichlet Model: The case of a known number of categories . International Journal of Approximate Reasoning 50, 217–230.
+
+- Coolen, F.P.A., Elsaeiti, M.A., 2009. Nonparametric Predictive Methods for Acceptance Sampling. Journal of Statistical Theory and Practice 3, 907–921.
 Bib Entry   Link Abstract 
-Coolen, F.P.A., Elsaeiti, M.A., 2009. Nonparametric Predictive Methods for Acceptance Sampling. Journal of Statistical Theory and Practice 3, 907–921.
+
+- Coolen-Schrijner, P., Maturi, T.A., Coolen, F.P.A., 2009. Nonparametric Predictive Precedence Testing for Two Groups. Journal of Statistical Theory and Practice 3, 273–287.
 Bib Entry   Link Abstract 
-Coolen-Schrijner, P., Maturi, T.A., Coolen, F.P.A., 2009. Nonparametric Predictive Precedence Testing for Two Groups. Journal of Statistical Theory and Practice 3, 273–287.
+
+- MacPhee, I.M., Coolen, F.P.A., Aboalkhair, A.M., 2009. Nonparametric predictive system reliability with redundancy allocation following component testing. Proceedings of the Institution of Mechanical Engineers, Part O: Journal of Risk and Reliability 223, 181–188.
+Bib Entry   Link Abstract
+
+- Maturi, T.A., Coolen-Schrijner, P., Coolen, F.P.A., 2009. Nonparametric predictive pairwise comparison for real-valued data with terminated tails . International Journal of Approximate Reasoning 51, 141–150.
 Bib Entry   Link Abstract 
-MacPhee, I.M., Coolen, F.P.A., Aboalkhair, A.M., 2009. Nonparametric predictive system reliability with redundancy allocation following component testing. Proceedings of the Institution of Mechanical Engineers, Part O: Journal of Risk and Reliability 223, 181–188.
+
+- Coolen-Schrijner, P., Coolen, F.P.A., MacPhee, I.M., 2008. Nonparametric predictive inference for system reliability with redundancy allocation. Proceedings of the Institution of Mechanical Engineers, Part O: Journal of Risk and Reliability 222, 463–476.
 Bib Entry   Link Abstract 
-Maturi, T.A., Coolen-Schrijner, P., Coolen, F.P.A., 2009. Nonparametric predictive pairwise comparison for real-valued data with terminated tails . International Journal of Approximate Reasoning 51, 141–150.
+
+- Arts, G.R.J., Coolen, F.P.A., 2008. Two Nonparametric Predictive Control Charts. Journal of Statistical Theory and Practice 2, 499–512.
 Bib Entry   Link Abstract 
-Coolen-Schrijner, P., Coolen, F.P.A., MacPhee, I.M., 2008. Nonparametric predictive inference for system reliability with redundancy allocation. Proceedings of the Institution of Mechanical Engineers, Part O: Journal of Risk and Reliability 222, 463–476.
-Bib Entry   Link Abstract 
-Arts, G.R.J., Coolen, F.P.A., 2008. Two Nonparametric Predictive Control Charts. Journal of Statistical Theory and Practice 2, 499–512.
-Bib Entry   Link Abstract 
+
 Coolen, F.P.A., 2007. Non-parametric prediction of unobserved failure modes. Proceedings of the Institution of Mechanical Engineers, Part O: Journal of Risk and Reliability 221, 207–216.
 Bib Entry   Link Abstract 
 Coolen-Schrijner, P., Coolen, F.P.A., 2007. Nonparametric predictive comparison of success-failure data in reliability. Proceedings of the Institution of Mechanical Engineers, Part O: Journal of Risk and Reliability 221, 319–327.
