@@ -6,12 +6,14 @@ permalink: /phdtheses/
 
 # Phd Theses
 
+- Ms Fatimah Alghamdi (2022). Reproducibility of Statistical Inference Based on Randomised Response Data. Durham University, UK.
+
 - Mr Masad Alrasheedi (2022). Optimal Thresholds for Classification Trees using Nonparametric Predictive Inference. Durham University, UK.
 
 - Mr Ali Mahnashi (2022). Contributions to Nonparametric predictive inference with right-censored data.  Durham University, UK.
 
 - Mr Abdulmajeed Alharbi (2022). Direct Nonparametric predictive inference classification trees. Durham University, UK.
-- 
+
 - Mr Assamh Al-Luhayb (2021). Smoothed Bootstrap Methods for Right-Censored Data and Bivariate Data. Durham University, UK.
 
 
