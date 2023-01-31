@@ -116,39 +116,53 @@ Bib Entry   Link Abstract
 - Arts, G.R.J., Coolen, F.P.A., 2008. Two Nonparametric Predictive Control Charts. Journal of Statistical Theory and Practice 2, 499–512.
 Bib Entry   Link Abstract 
 
-Coolen, F.P.A., 2007. Non-parametric prediction of unobserved failure modes. Proceedings of the Institution of Mechanical Engineers, Part O: Journal of Risk and Reliability 221, 207–216.
+- Coolen, F.P.A., 2007. Non-parametric prediction of unobserved failure modes. Proceedings of the Institution of Mechanical Engineers, Part O: Journal of Risk and Reliability 221, 207–216.
 Bib Entry   Link Abstract 
-Coolen-Schrijner, P., Coolen, F.P.A., 2007. Nonparametric predictive comparison of success-failure data in reliability. Proceedings of the Institution of Mechanical Engineers, Part O: Journal of Risk and Reliability 221, 319–327.
+
+- Coolen-Schrijner, P., Coolen, F.P.A., 2007. Nonparametric predictive comparison of success-failure data in reliability. Proceedings of the Institution of Mechanical Engineers, Part O: Journal of Risk and Reliability 221, 319–327.
 Bib Entry   Link Abstract 
-Coolen, F.P.A., 2004. On the Use of Imprecise Probabilities in Reliability. Quality and Reliability Engineering International 20, 193–202.
+
+- Coolen, F.P.A., 2004. On the Use of Imprecise Probabilities in Reliability. Quality and Reliability Engineering International 20, 193–202.
 Bib Entry   Link Abstract 
-Coolen-Schrijner, P., Coolen, F.P.A., 2004. Non-parametric Predictive Inference for Age Replacement with a Renewal Argument. Quality and Reliability Engineering International 20, 203–215.
+
+- Coolen-Schrijner, P., Coolen, F.P.A., 2004. Non-parametric Predictive Inference for Age Replacement with a Renewal Argument. Quality and Reliability Engineering International 20, 203–215.
 Bib Entry   Link Abstract 
-Arts, G.R.J., Coolen, F.P.A., van der Laan, P., 2004. Nonparametric Predictive Inference in Statistical Process Control. Quality Technology & Quantitative Management 1, 201–216.
+
+- Arts, G.R.J., Coolen, F.P.A., van der Laan, P., 2004. Nonparametric Predictive Inference in Statistical Process Control. Quality Technology & Quantitative Management 1, 201–216.
 Bib Entry   Link Abstract 
-Coolen, F.P.A., Coolen-Schrijner, P., 2003. A nonparametric predictive method for queues . European Journal of Operational Research 145, 425–442.
+
+- Coolen, F.P.A., Coolen-Schrijner, P., 2003. A nonparametric predictive method for queues . European Journal of Operational Research 145, 425–442.
 Bib Entry   Link Abstract 
-Coolen, F.P.A., Yan, K.J., 2003. Nonparametric predictive inference for grouped lifetime data . Reliability Engineering & System Safety 80, 243–252.
+
+- Coolen, F.P.A., Yan, K.J., 2003. Nonparametric predictive inference for grouped lifetime data . Reliability Engineering & System Safety 80, 243–252.
 Bib Entry   Link Abstract 
-Coolen, F.P.A., Coolen-Schrijner, P., Yan, K.J., 2002. Nonparametric predictive inference in reliability . Reliability Engineering & System Safety 78, 185–193.
+
+- Coolen, F.P.A., Coolen-Schrijner, P., Yan, K.J., 2002. Nonparametric predictive inference in reliability . Reliability Engineering & System Safety 78, 185–193.
 Bib Entry   Link Abstract 
-Coolen, F.P.A., 1998. Low structure imprecise predictive inference for Bayes’ problem . Statistics & Probability Letters 36, 349–357.
+
+- Coolen, F.P.A., 1998. Low structure imprecise predictive inference for Bayes’ problem . Statistics & Probability Letters 36, 349–357.
 Bib Entry   Link Abstract 
 
 ## Proceedings papers
-Aboalkhair, A.M., Coolen, F.P.A., MacPhee, I.M., 2012. Nonparametric predictive inference for reliability of a series of subsystems with multiple component types, in: Reliability, Risk Management (Proceedings Esrel 2011 Risk Management (Proceedings Esrel 2011 Troyes). C. Bérenguer, A.G., Soares, C.G. (Eds.), Advances in Safety. Taylor & Francis Group, London, . (Abstract page 168 of Book of Abstracts, pp. 1069–1077.
-Bib Entry   
-Coolen, F.P.A., 2011. Nonparametric predictive inference in reliability and risk: recent developments, in: Proceedings SSARSth Summer Safety & Reliability Seminars. Krzysztof Kolowrocki and Joanna Soszynska-Budny, Volume 1 (1/2), pp 39-50, Journal of Polish Safety and Reliability Association. Eds, pp. 2011–5.
-Bib Entry   
-Coolen, F.P.A., 2011. Nonparametric predictive inference, in: Lovric, M. (Ed.), International Encyclopedia of Statistical Science. Springer, pp. 968–970.
+- Aboalkhair, A.M., Coolen, F.P.A., MacPhee, I.M., 2012. Nonparametric predictive inference for reliability of a series of subsystems with multiple component types, in: Reliability, Risk Management (Proceedings Esrel 2011 Risk Management (Proceedings Esrel 2011 Troyes). C. Bérenguer, A.G., Soares, C.G. (Eds.), Advances in Safety. Taylor & Francis Group, London, . (Abstract page 168 of Book of Abstracts, pp. 1069–1077.
+Bib Entry 
+
+- Coolen, F.P.A., 2011. Nonparametric predictive inference in reliability and risk: recent developments, in: Proceedings SSARSth Summer Safety & Reliability Seminars. Krzysztof Kolowrocki and Joanna Soszynska-Budny, Volume 1 (1/2), pp 39-50, Journal of Polish Safety and Reliability Association. Eds, pp. 2011–5.
+Bib Entry 
+
+- Coolen, F.P.A., 2011. Nonparametric predictive inference, in: Lovric, M. (Ed.), International Encyclopedia of Statistical Science. Springer, pp. 968–970.
 Bib Entry  PDF 
-Al-Nefaiee, A., Coolen, F.P.A., 2011. Nonparametric predictive inference for failure times of systems consisting of exchangeable components, in: Prescott, D., Remenyte-Prescott, R. (Eds.), Proceedings Advances in Risk and Reliability Technology Symposium 2011. pp. 226–236.
+
+- Al-Nefaiee, A., Coolen, F.P.A., 2011. Nonparametric predictive inference for failure times of systems consisting of exchangeable components, in: Prescott, D., Remenyte-Prescott, R. (Eds.), Proceedings Advances in Risk and Reliability Technology Symposium 2011. pp. 226–236.
 Bib Entry   
-Coolen-Maturi, T., Coolen, F.P.A., 2011. On unobserved failure modes in competing risks, in: Prescott, D., Remenyte-Prescott, R. (Eds.), Proceedings Advances in Risk and Reliability Technology Symposium 2011. pp. 340–352.
+
+- Coolen-Maturi, T., Coolen, F.P.A., 2011. On unobserved failure modes in competing risks, in: Prescott, D., Remenyte-Prescott, R. (Eds.), Proceedings Advances in Risk and Reliability Technology Symposium 2011. pp. 340–352.
 Bib Entry   
-Baker, R.M., Coolen-Schrijner, P., Coolen, F.P.A., Augustin, T., 2011. Nonparametric predictive inference with subcategory data, in: ISIPTA’11. pp. 41–50.
+
+- Baker, R.M., Coolen-Schrijner, P., Coolen, F.P.A., Augustin, T., 2011. Nonparametric predictive inference with subcategory data, in: ISIPTA’11. pp. 41–50.
 Bib Entry  PDF Link
-Aboalkhair, A.M., Coolen, F.P.A., MacPhee, I.M., 2011. Nonparametric predictive inference for system reliability with subsystems consisting of multiple component types, in: Prescott, D., Remenyte-Prescott, R. (Eds.), Proceedings Advances in Risk and Reliability Technology Symposium 2011. pp. 322–339.
+
+- Aboalkhair, A.M., Coolen, F.P.A., MacPhee, I.M., 2011. Nonparametric predictive inference for system reliability with subsystems consisting of multiple component types, in: Prescott, D., Remenyte-Prescott, R. (Eds.), Proceedings Advances in Risk and Reliability Technology Symposium 2011. pp. 322–339.
 Bib Entry 
 
 - Crossman, R.J., Abellan, J., Augustin, T., Coolen, F.P.A., 2011. Building imprecise classification trees with entropy ranges, in: ISIPTA’11. pp. 129–138.
