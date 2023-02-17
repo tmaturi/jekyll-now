@@ -10,9 +10,9 @@ permalink: /publications/
 *   [Other](#other)
 
 
-* [2005-09](#2005)
-* [2000-04](#2000)
-* [1995-99](#1995)
+* [2005-09](#y2005)
+* [2000-04](#y2000)
+* [1995-99](#y1995)
 
 ### Journal articles {#journal}
 
@@ -226,12 +226,12 @@ permalink: /publications/
     [Link](http://www.sciencedirect.com/science/article/pii/S0951832003000334)
 
 
-#### 2000-04 {#2000}
+#### 2000-04 {#y2000}
     
 45.  Coolen, F.P.A., Coolen-Schrijner, P., Yan, K.J., 2002. Nonparametric predictive inference in reliability . Reliability Engineering & System Safety 78, 185–193. 
 [[Link]](http://www.sciencedirect.com/science/article/pii/S095183200200162X)
     
-#### 1995-99 {#1995}
+#### 1995-99 {#y1995}
     
 - Coolen, F.P.A., 1998. Low structure imprecise predictive inference for Bayes’ problem . Statistics & Probability Letters 36, 349–357.
 [[Link]](http://www.sciencedirect.com/science/article/pii/S0167715297000813)
@@ -240,181 +240,85 @@ permalink: /publications/
 
 ### Proceedings papers {#confint}
 
-1.  Aboalkhair, A.M., Coolen, F.P.A., MacPhee, I.M., 2012. Nonparametric predictive inference for reliability of a series of subsystems with multiple component types, in: Reliability, Risk Management (Proceedings Esrel 2011 Risk Management (Proceedings Esrel 2011 Troyes). C. Bérenguer, A.G., Soares, C.G. (Eds.), Advances in Safety. Taylor & Francis Group, London, . (Abstract page 168 of Book of Abstracts, pp. 1069–1077.
+- Aboalkhair, A.M., Coolen, F.P.A., MacPhee, I.M., 2012. Nonparametric predictive inference for reliability of a series of subsystems with multiple component types, in: Reliability, Risk Management (Proceedings Esrel 2011 Risk Management (Proceedings Esrel 2011 Troyes). C. Bérenguer, A.G., Soares, C.G. (Eds.), Advances in Safety. Taylor & Francis Group, London, . (Abstract page 168 of Book of Abstracts, pp. 1069–1077.
     
- 
+- Coolen, F.P.A., 2011. Nonparametric predictive inference in reliability and risk: recent developments, in: Proceedings SSARSth Summer Safety & Reliability Seminars. Krzysztof Kolowrocki and Joanna Soszynska-Budny, Volume 1 (1/2), pp 39-50, Journal of Polish Safety and Reliability Association. Eds, pp. 2011–5.
+    
+- Coolen, F.P.A., 2011. Nonparametric predictive inference, in: Lovric, M. (Ed.), International Encyclopedia of Statistical Science. Springer, pp. 968–970.
+[[PDF]](../pdfs/papers/Cool2011.pdf)
+    
+- Al-Nefaiee, A., Coolen, F.P.A., 2011. Nonparametric predictive inference for failure times of systems consisting of exchangeable components, in: Prescott, D., Remenyte-Prescott, R. (Eds.), Proceedings Advances in Risk and Reliability Technology Symposium 2011. pp. 226–236.
+     
+- Coolen-Maturi, T., Coolen, F.P.A., 2011. On unobserved failure modes in competing risks, in: Prescott, D., Remenyte-Prescott, R. (Eds.), Proceedings Advances in Risk and Reliability Technology Symposium 2011. pp. 340–352.
+    
+    
+- Baker, R.M., Coolen-Schrijner, P., Coolen, F.P.A., Augustin, T., 2011. Nonparametric predictive inference with subcategory data, in: ISIPTA’11. pp. 41–50.
+[[PDF]](../pdfs/papers/BCCA2011.pdf)
+[[Link]](http://www.sipta.org/isipta11/proceedings/)
+    
+- Aboalkhair, A.M., Coolen, F.P.A., MacPhee, I.M., 2011. Nonparametric predictive inference for system reliability with subsystems consisting of multiple component types, in: Prescott, D., Remenyte-Prescott, R. (Eds.), Proceedings Advances in Risk and Reliability Technology Symposium 2011. pp. 322–339.
+      
+- Crossman, R.J., Abellan, J., Augustin, T., Coolen, F.P.A., 2011. Building imprecise classification trees with entropy ranges, in: ISIPTA’11. pp. 129–138.
+[[PDF]](../pdfs/papers/CAAC2011.pdf)
+[[Link]](http://www.sipta.org/isipta11/proceedings/)
+    
+- Aboalkhair, A.M., Coolen, F.P.A., MacPhee, I.M., 2010. Nonparametric predictive inference for reliability of voting systems with multiple component types, in: Chateauneuf, M.N., Guérin, F. (Eds.), A. May 2010, Clermont-Ferrand, France, Proceedings Third International Conference on Accelerated Life Testing, Reliability-based Analysis and Design, pp. 175–182.
+     
+- Coolen, F.P.A., Maturi, T.A., 2010. Nonparametric predictive inference for order statistics of future observations, in: Borgelt, C., Gonzalez-Rodriguez, G., Trutschnig, W., Lubiano, M.A., Gil, M.A., Grzegorzewski, P., Hryniewicz, O. (Eds.), Combining Soft Computing and Statistical Methods in Data Analysis. Springer, Berlin (Advances in Intelligent and Soft Computing 77), . (Proceedings of the 5th International Conference on Soft Methods in Probability and Statistics, Oviedo, Spain, 28 Sept - 1 Oct 2010, pp. 97–104.
+    
+    
+- Coolen, F.P.A., Coolen-Schrijner, P., Maturi, T.A., 2010. On nonparametric predictive inference for ordinal data, in: Kruse, R., Hoffmann, F. (Eds.), Eyke Hüllermeier. Computational Intelligence for Knowledge-Based Systems Design, Proceedings of the 13th International Conference on Information Processing and Management of Uncertainty, IPMU 2010, Dortmund, Germany, June 28 - July 2, 2010. Springer, Berlin, pp. 188–197.
+     
+- Maturi, T.A., Coolen-Schrijner, P., Coolen, F.P.A., 2009. On nonparametric predictive inference for competing risks, in: Proceedings 18th ARTS. pp. 196–211.
+     
+- Baker, R.M., Coolen, F.P.A., 2009. Category selection for multinomial data, in: Proceedings ISIPTA’09. pp. 21–30.
+[[PDF]](../pdfs/papers/BaCo2009.pdf)
+[[Link]](http://www.sipta.org/isipta09/proceedings/)
+    
+- Coolen, F.P.A., Aboalkhair, A.M., MacPhee, I.M., 2009. Nonparametric predictive system reliability with all subsystems consisting of one type of component, in: Kallen, M.J., Kuniewski, S.P. (Eds.), Risk and Decision Analysis in Maintenance Optimization and Flood Management. IOS Press (Delft University Press), Amsterdam, pp. 85–98.
+    
+  
+- Elsaeiti, M., Coolen, F.P.A., 2009. Nonparametric predictive inference for acceptance sampling with destructive tests, in: Proceedings 18th ARTS. pp. 212–220.
         
     
-2.  Coolen, F.P.A., 2011. Nonparametric predictive inference in reliability and risk: recent developments, in: Proceedings SSARSth Summer Safety & Reliability Seminars. Krzysztof Kolowrocki and Joanna Soszynska-Budny, Volume 1 (1/2), pp 39-50, Journal of Polish Safety and Reliability Association. Eds, pp. 2011–5.
+- Maturi, T.A., Coolen-Schrijner, P., Coolen, F.P.A., 2009. Nonparametric predictive multiple comparisons with censored data and competing risks, in: Proceedings ISIPTA’09. pp. 307–316.
+[[PDF]](../pdfs/papers/MaCC2009a.pdf)
+[[Link]](http://www.sipta.org/isipta09/proceedings/)
     
+- Aboalkhair, A.M., Coolen, F.P.A., MacPhee, I.M., 2009. Nonparametric predictive system reliability with redundancy allocation following component testing, in: Proceedings 18th ARTS. pp. 396–407.
+    
+- Coolen, F.P.A., Coolen-Schrijner, P., 2008. Nonparametric predictive inference for k-out-of-m systems, in: Advances in Mathematical Modeling for Reliability. T. Bedford, J. Quigley, L. Walls, B. Alkali, A. Daneshkhah, G. Hardman. IOS Press, Amsterdam, pp. 185–192.      
+    
+- Maturi, T.A., Coolen-Schrijner, P., Coolen, F.P.A., 2008. Lifetime comparisons with early termination of experiments, in: Proceedings ISNI’08. pp. 127–130.
+            
+- Coolen, F.P.A., 2008. On nonparametric predictive inference for Bernoulli quantities with set-valued data, in: Soft Methods for Handling Variability and Imprecision. D. Dubois, M. Asuncion Lubiana, H. Prade, M. Angeles Gil, P. Grzegorzewski, O. Hryniewicz. Springer, pp. 85–91.
+     
+- Coolen, F.P.A., Maturi, T.A., 2008. On nonparametric predictive inference with incomplete data, in: Proceedings ISNI’08. pp. 80–84.
+    
+- Maturi, T.A., Coolen-Schrijner, P., Coolen, F.P.A., 2008. Early termination of experiments in nonparametric predictive comparisons, in: Proceedings IWAP’08.
+[[PDF]](../pdfs/papers/MaCC2008.pdf)
+    
+- Coolen, F.P.A., Augustin, T., 2007. Multinomial nonparametric predictive inference with sub-categories, in: Proceedings ISIPTA’07. pp. 77–86.
+[[PDF]](../pdfs/papers/CoAu2007.pdf)
+[[Link]](http://www.sipta.org/isipta07/proceedings/)
+    
+- Coolen, F.P.A., Houlding, B., Parkinson, S.G., 2007. Jury size and composition - a predictive approach, in: Proceedings ISIPTA’07. pp. 87–96.
+[[PDF]](../pdfs/papers/CoHP2007.pdf)
+[[Link]](http://www.sipta.org/isipta07/proceedings/)
+    
+- Coolen-Schrijner, P., Maturi, T., Coolen, F.P.A., 2007. Nonparametric predictive precedence testing for two groups, in: Proceedings MMR’07 (CD-ROM).
+[[PDF]](../pdfs/papers/CoMC2007.pdf)
+    
+- Coolen, F.P.A., Coolen-Schrijner, P., 2007. Nonparametric predictive inference for Bernoulli quantities: two examples, in: Proceedings 56th ISI Conference.
+[[PDF]](../pdfs/papers/CoCo2007.pdf)
+    
+- Coolen, F.P.A., Coolen-Schrijner, P., 2007. Nonparametric predictive inference for voting systems, in: Proceedings MMR’07 (CD-ROM.
+[[PDF]](../pdfs/papers/CoCo2007a.pdf)
+    
+- Coolen-Schrijner, P., Coolen, F.P.A., 2007. Nonparametric predictive comparison of success-failure data in reliability, in: Proceedings 17th ARTS. pp. 255–273.
    
-        
-    
-3.  Coolen, F.P.A., 2011. Nonparametric predictive inference, in: Lovric, M. (Ed.), International Encyclopedia of Statistical Science. Springer, pp. 968–970.
-    
-   
-        
-    
-    [PDF](../pdfs/papers/Cool2011.pdf)
-    
-4.  Al-Nefaiee, A., Coolen, F.P.A., 2011. Nonparametric predictive inference for failure times of systems consisting of exchangeable components, in: Prescott, D., Remenyte-Prescott, R. (Eds.), Proceedings Advances in Risk and Reliability Technology Symposium 2011. pp. 226–236.
-    
-  
-        
-    
-5.  Coolen-Maturi, T., Coolen, F.P.A., 2011. On unobserved failure modes in competing risks, in: Prescott, D., Remenyte-Prescott, R. (Eds.), Proceedings Advances in Risk and Reliability Technology Symposium 2011. pp. 340–352.
-    
-  
-        
-    
-6.  Baker, R.M., Coolen-Schrijner, P., Coolen, F.P.A., Augustin, T., 2011. Nonparametric predictive inference with subcategory data, in: ISIPTA’11. pp. 41–50.
-    
-
-        
-    
-    [PDF](../pdfs/papers/BCCA2011.pdf)
-    
-    [Link](http://www.sipta.org/isipta11/proceedings/)
-    
-7.  Aboalkhair, A.M., Coolen, F.P.A., MacPhee, I.M., 2011. Nonparametric predictive inference for system reliability with subsystems consisting of multiple component types, in: Prescott, D., Remenyte-Prescott, R. (Eds.), Proceedings Advances in Risk and Reliability Technology Symposium 2011. pp. 322–339.
-    
-   
-    
-8.  Crossman, R.J., Abellan, J., Augustin, T., Coolen, F.P.A., 2011. Building imprecise classification trees with entropy ranges, in: ISIPTA’11. pp. 129–138.
-    
-  
-        
-    
-    [PDF](../pdfs/papers/CAAC2011.pdf)
-    
-    [Link](http://www.sipta.org/isipta11/proceedings/)
-    
-9.  Aboalkhair, A.M., Coolen, F.P.A., MacPhee, I.M., 2010. Nonparametric predictive inference for reliability of voting systems with multiple component types, in: Chateauneuf, M.N., Guérin, F. (Eds.), A. May 2010, Clermont-Ferrand, France, Proceedings Third International Conference on Accelerated Life Testing, Reliability-based Analysis and Design, pp. 175–182.
-    
-    
-        
-    
-10.  Coolen, F.P.A., Maturi, T.A., 2010. Nonparametric predictive inference for order statistics of future observations, in: Borgelt, C., Gonzalez-Rodriguez, G., Trutschnig, W., Lubiano, M.A., Gil, M.A., Grzegorzewski, P., Hryniewicz, O. (Eds.), Combining Soft Computing and Statistical Methods in Data Analysis. Springer, Berlin (Advances in Intelligent and Soft Computing 77), . (Proceedings of the 5th International Conference on Soft Methods in Probability and Statistics, Oviedo, Spain, 28 Sept - 1 Oct 2010, pp. 97–104.
-    
-  
-        
-    
-11.  Coolen, F.P.A., Coolen-Schrijner, P., Maturi, T.A., 2010. On nonparametric predictive inference for ordinal data, in: Kruse, R., Hoffmann, F. (Eds.), Eyke Hüllermeier. Computational Intelligence for Knowledge-Based Systems Design, Proceedings of the 13th International Conference on Information Processing and Management of Uncertainty, IPMU 2010, Dortmund, Germany, June 28 - July 2, 2010. Springer, Berlin, pp. 188–197.
-    
- 
-        
-    
-12.  Maturi, T.A., Coolen-Schrijner, P., Coolen, F.P.A., 2009. On nonparametric predictive inference for competing risks, in: Proceedings 18th ARTS. pp. 196–211.
-    
-   
-        
-    
-13.  Baker, R.M., Coolen, F.P.A., 2009. Category selection for multinomial data, in: Proceedings ISIPTA’09. pp. 21–30.
-    
-    
-        
-    
-    [PDF](../pdfs/papers/BaCo2009.pdf)
-    
-    [Link](http://www.sipta.org/isipta09/proceedings/)
-    
-14.  Coolen, F.P.A., Aboalkhair, A.M., MacPhee, I.M., 2009. Nonparametric predictive system reliability with all subsystems consisting of one type of component, in: Kallen, M.J., Kuniewski, S.P. (Eds.), Risk and Decision Analysis in Maintenance Optimization and Flood Management. IOS Press (Delft University Press), Amsterdam, pp. 85–98.
-    
-
-    
-15.  Elsaeiti, M., Coolen, F.P.A., 2009. Nonparametric predictive inference for acceptance sampling with destructive tests, in: Proceedings 18th ARTS. pp. 212–220.
-   
-        
-    
-16.  Maturi, T.A., Coolen-Schrijner, P., Coolen, F.P.A., 2009. Nonparametric predictive multiple comparisons with censored data and competing risks, in: Proceedings ISIPTA’09. pp. 307–316.
-    
-    
-        
-    
-    [PDF](../pdfs/papers/MaCC2009a.pdf)
-    
-    [Link](http://www.sipta.org/isipta09/proceedings/)
-    
-17.  Aboalkhair, A.M., Coolen, F.P.A., MacPhee, I.M., 2009. Nonparametric predictive system reliability with redundancy allocation following component testing, in: Proceedings 18th ARTS. pp. 396–407.
-    
-
-        
-    
-18.  Coolen, F.P.A., Coolen-Schrijner, P., 2008. Nonparametric predictive inference for k-out-of-m systems, in: Advances in Mathematical Modeling for Reliability. T. Bedford, J. Quigley, L. Walls, B. Alkali, A. Daneshkhah, G. Hardman. IOS Press, Amsterdam, pp. 185–192.
-    
-  
-        
-    
-19.  Maturi, T.A., Coolen-Schrijner, P., Coolen, F.P.A., 2008. Lifetime comparisons with early termination of experiments, in: Proceedings ISNI’08. pp. 127–130.
-    
- 
-        
-    
-20.  Coolen, F.P.A., 2008. On nonparametric predictive inference for Bernoulli quantities with set-valued data, in: Soft Methods for Handling Variability and Imprecision. D. Dubois, M. Asuncion Lubiana, H. Prade, M. Angeles Gil, P. Grzegorzewski, O. Hryniewicz. Springer, pp. 85–91.
-    
-  
-        
-    
-21.  Coolen, F.P.A., Maturi, T.A., 2008. On nonparametric predictive inference with incomplete data, in: Proceedings ISNI’08. pp. 80–84.
-    
- 
-        
-    
-22.  Maturi, T.A., Coolen-Schrijner, P., Coolen, F.P.A., 2008. Early termination of experiments in nonparametric predictive comparisons, in: Proceedings IWAP’08 (CD-Rom.
-    
-  
-        
-    
-    [PDF](../pdfs/papers/MaCC2008.pdf)
-    
-23.  Coolen, F.P.A., Augustin, T., 2007. Multinomial nonparametric predictive inference with sub-categories, in: Proceedings ISIPTA’07. pp. 77–86.
-    
-   
-        
-    
-    [PDF](../pdfs/papers/CoAu2007.pdf)
-    
-    [Link](http://www.sipta.org/isipta07/proceedings/)
-    
-24.  Coolen, F.P.A., Houlding, B., Parkinson, S.G., 2007. Jury size and composition - a predictive approach, in: Proceedings ISIPTA’07. pp. 87–96.
-    
-
-        
-    
-    [PDF](../pdfs/papers/CoHP2007.pdf)
-    
-    [Link](http://www.sipta.org/isipta07/proceedings/)
-    
-25.  Coolen-Schrijner, P., Maturi, T., Coolen, F.P.A., 2007. Nonparametric predictive precedence testing for two groups, in: Proceedings MMR’07 (CD-ROM).
-    
-    
-        
-    
-    [PDF](../pdfs/papers/CoMC2007.pdf)
-    
-26.  Coolen, F.P.A., Coolen-Schrijner, P., 2007. Nonparametric predictive inference for Bernoulli quantities: two examples, in: Proceedings 56th ISI Conference (CD-ROM.
-
-        
-    
-    [PDF](../pdfs/papers/CoCo2007.pdf)
-    
-27.  Coolen, F.P.A., Coolen-Schrijner, P., 2007. Nonparametric predictive inference for voting systems, in: Proceedings MMR’07 (CD-ROM.
-    
-
-        
-    
-    [PDF](../pdfs/papers/CoCo2007a.pdf)
-    
-28.  Coolen-Schrijner, P., Coolen, F.P.A., 2007. Nonparametric predictive comparison of success-failure data in reliability, in: Proceedings 17th ARTS. pp. 255–273.
-    
-    
-        
-    
-29.  Coolen, F.P.A., 2006. Coolen-Schrijner, in: P. Springer, Comparing proportions data with few successes. In: Soft Methods for Integrated Uncertainty Modelling, eds: J. Lawry, E. Miranda, A. Bugarin, S. Li, M. Angeles Gil, P. Grzegorzewski, O. Hryniewicz, pp. 241–248.
-    
-  
-        
-    
+- Coolen, F.P.A., 2006. Coolen-Schrijner, in: P. Springer, Comparing proportions data with few successes. In: Soft Methods for Integrated Uncertainty Modelling, eds: J. Lawry, E. Miranda, A. Bugarin, S. Li, M. Angeles Gil, P. Grzegorzewski, O. Hryniewicz, pp. 241–248.
+       
 - Coolen, F.P.A., 2006. The occurrence of not yet observed failure modes, in: Safety and Reliability for Managing Risk. C. Guedes Soares, E. Zio. Taylor & Francis, pp. 881–888.
             
 - Coolen, F.P.A., Augustin, T., 2005. Learning from multinomial data: a nonparametric predictive alternative to the Imprecise Dirichlet Model, in: Proceedings ISIPTA’05. pp. 125–134.
