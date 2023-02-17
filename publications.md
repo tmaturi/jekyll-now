@@ -10,6 +10,9 @@ permalink: /publications/
 *   [Other](#other)
 
 
+[2000-04](#2000-04)
+[1995-99]{#1995-99}
+
 ### Journal articles {#journal}
 
 - Alqifari, H.N., Coolen, F.P.A., 2019. Robustness of Nonparametric Predictive Inference for Future Order Statistics. Journal of Statistical Theory and Practice. 
@@ -18,7 +21,7 @@ permalink: /publications/
     
 - Coolen-Maturi, T., 2018. Three-group ROC predictive analysis for ordinal outcomes. Communications in Statistics – Theory and Methods, to appear. 46, 9476–9493. [[PDF]](../pdfs/papers/TCM2018.pdf) [[Link]](http://dx.doi.org/10.1080/03610926.2016.1212074)    
    
-- Coolen, F.P.A., Coolen-Maturi, T., Alqifari, H.N., 2018. Nonparametric predictive inference for future order statistics. Communications in Statistics - Theory and Methods, to appear. 47, 2527–2548.
+- Coolen, F.P.A., Coolen-Maturi, T., Alqifari, H.N., 2018. Nonparametric predictive inference for future order statistics. Communications in Statistics - Theory and Methods, 47, 2527–2548.
    
     [PDF](../pdfs/papers/CoCA2018.pdf)
     
@@ -103,37 +106,22 @@ permalink: /publications/
     
  
     
-14.  Aboalkhair, A.M., Coolen, F.P.A., MacPhee, I.M., 2014. Nonparametric predictive inference for reliability of a k-out-of-m:G system with multiple component types . Reliability Engineering & System Safety 131, 298–304.
-    
-    
-        
-    
-    [Link](http://www.sciencedirect.com/science/article/pii/S0951832014000787)
+- Aboalkhair, A.M., Coolen, F.P.A., MacPhee, I.M., 2014. Nonparametric predictive inference for reliability of a k-out-of-m:G system with multiple component types . Reliability Engineering & System Safety 131, 298–304.
+[[Link]](http://www.sciencedirect.com/science/article/pii/S0951832014000787)
     
     
     
-15.  Coolen, F.P.A., Himd, S.B., 2014. Nonparametric Predictive Inference for Reproducibility of Basic Nonparametric Tests. Journal of Statistical Theory and Practice 8, 591–618.
-     
-    
-    [Link]( 
-            http://dx.doi.org/10.1080/15598608.2013.819792
-        
-    )
+- Coolen, F.P.A., Himd, S.B., 2014. Nonparametric Predictive Inference for Reproducibility of Basic Nonparametric Tests. Journal of Statistical Theory and Practice 8, 591–618.
+[[Link]](http://dx.doi.org/10.1080/15598608.2013.819792)
     
    
     
-16.  Coolen, F.P.A., Coolen-Maturi, T., Al-nefaiee, A.H., 2014. Nonparametric predictive inference for system reliability using the survival signature. Proceedings of the Institution of Mechanical Engineers, Part O: Journal of Risk and Reliability 228, 437–448.
+- Coolen, F.P.A., Coolen-Maturi, T., Al-nefaiee, A.H., 2014. Nonparametric predictive inference for system reliability using the survival signature. Proceedings of the Institution of Mechanical Engineers, Part O: Journal of Risk and Reliability 228, 437–448.
+[[Link]](http://pio.sagepub.com/cgi/content/abstract/228/5/437)
     
     
-    
-    [Link](http://pio.sagepub.com/cgi/content/abstract/228/5/437)
-    
-    
-17.  Al-nefaiee, A.H., Coolen, F.P.A., 2013. Nonparametric predictive inference for system failure time based on bounds for the signature. Proceedings of the Institution of Mechanical Engineers, Part O: Journal of Risk and Reliability 227, 513–522.
-    
-   
-    
-    [Link](http://pio.sagepub.com/cgi/content/abstract/227/5/513)
+- Al-nefaiee, A.H., Coolen, F.P.A., 2013. Nonparametric predictive inference for system failure time based on bounds for the signature. Proceedings of the Institution of Mechanical Engineers, Part O: Journal of Risk and Reliability 227, 513–522.
+[[Link]](http://pio.sagepub.com/cgi/content/abstract/227/5/513)
     
     
     
@@ -382,20 +370,17 @@ permalink: /publications/
         
     
     [Link](http://www.sciencedirect.com/science/article/pii/S0951832003000334)
- 
+
+
+#### 2000-04 {#2000-04}
     
-45.  Coolen, F.P.A., Coolen-Schrijner, P., Yan, K.J., 2002. Nonparametric predictive inference in reliability . Reliability Engineering & System Safety 78, 185–193.
+45.  Coolen, F.P.A., Coolen-Schrijner, P., Yan, K.J., 2002. Nonparametric predictive inference in reliability . Reliability Engineering & System Safety 78, 185–193. 
+[[Link]](http://www.sciencedirect.com/science/article/pii/S095183200200162X)
     
-   
+#### 1995-99 {#1995-99}
     
-    [Link](http://www.sciencedirect.com/science/article/pii/S095183200200162X)
-    
-    
-46.  Coolen, F.P.A., 1998. Low structure imprecise predictive inference for Bayes’ problem . Statistics & Probability Letters 36, 349–357.
-    
-  
-    
-    [Link](http://www.sciencedirect.com/science/article/pii/S0167715297000813)
+- Coolen, F.P.A., 1998. Low structure imprecise predictive inference for Bayes’ problem . Statistics & Probability Letters 36, 349–357.
+[[Link]](http://www.sciencedirect.com/science/article/pii/S0167715297000813)
     
         
 
