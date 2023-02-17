@@ -23,12 +23,9 @@ permalink: /publications/
 - Coolen-Maturi, T., 2018. Three-group ROC predictive analysis for ordinal outcomes. Communications in Statistics – Theory and Methods, to appear. 46, 9476–9493. [[PDF]](../pdfs/papers/TCM2018.pdf) [[Link]](http://dx.doi.org/10.1080/03610926.2016.1212074)    
    
 - Coolen, F.P.A., Coolen-Maturi, T., Alqifari, H.N., 2018. Nonparametric predictive inference for future order statistics. Communications in Statistics - Theory and Methods, 47, 2527–2548.
-   
-    [PDF](../pdfs/papers/CoCA2018.pdf)
-    
-    [Link](http://dx.doi.org/10.1080/03610926.2017.1342834)
-    
-    
+[[PDF]](../pdfs/papers/CoCA2018.pdf)
+[[Link]](http://dx.doi.org/10.1080/03610926.2017.1342834)
+        
 - Bakera, R.M., Coolen-Maturi, T., Coolen, F.P.A., 2017. Nonparametric Predictive Inference for Stock Returns. Journal of Applied Statistics 44, 1333–1349.
 [[PDF]](../pdfs/papers/BaCC2016.pdf)
 [[Link]](http://dx.doi.org/10.1080/02664763.2016.1204429)
@@ -37,18 +34,15 @@ permalink: /publications/
 - Coolen-Maturi, T., 2017. Predictive inference for best linear combination of biomarkers subject to limits of detection. Statistics in Medicine 36, 2844–2874.
 [[PDF]](../pdfs/papers/TCM2017.pdf)
 [[Link]](http://dx.doi.org/10.1002/sim.7317)
-    
-    
+   
     
 - Yin, Y.-C., Coolen, F.P.A., Coolen-Maturi, T., 2017. An imprecise statistical method for accelerated life testing using the power-Weibull model. Reliability Engineering & System Safety 167, 158–167.
 [[PDF]](../pdfs/papers/YiCC2017.pdf)
 [[Link]](http://www.sciencedirect.com/science/article/pii/S0951832016307591)
     
-   
-    
+
 - Coolen, F.P.A., Coolen-Maturi, T., 2016. The structure function for system reliability as predictive (imprecise) probability. Reliability Engineering & System Safety 154, 180–187. 
 [[Link]](http://www.sciencedirect.com/science/article/pii/S0951832016301132)
-    
     
     
 - Coolen-Maturi, T., Coolen, F.P.A., Muhammad, N., 2016. Predictive inference for bivariate data: Combining nonparametric predictive inference for marginals with an estimated copula. Journal of Statistical Theory and Practice 10, 515–538.   
@@ -127,33 +121,18 @@ permalink: /publications/
     
     
     
-25.  Elsaeiti, M.A., Coolen, F.P.A., 2012. A Nonparametric predictive approach to sequential acceptance problems. Journal of Statistical Theory and Practice 6, 383–401.
-    
- 
-        
-    
-    [Link]( 
-            http://dx.doi.org/10.1080/15598608.2012.695930
-        
-    )
+- Elsaeiti, M.A., Coolen, F.P.A., 2012. A Nonparametric predictive approach to sequential acceptance problems. Journal of Statistical Theory and Practice 6, 383–401.
+[[Link]](http://dx.doi.org/10.1080/15598608.2012.695930)
     
     
     
-26.  Coolen-Maturi, T., Coolen, F.P.A., 2011. Unobserved, re-defined, unknown or removed failure modes in competing risks. Proceedings of the Institution of Mechanical Engineers, Part O: Journal of Risk and Reliability 225, 461–474.
-    
-  
-        
-    
-    [Link](http://pio.sagepub.com/cgi/content/abstract/225/4/461)
+- Coolen-Maturi, T., Coolen, F.P.A., 2011. Unobserved, re-defined, unknown or removed failure modes in competing risks. Proceedings of the Institution of Mechanical Engineers, Part O: Journal of Risk and Reliability 225, 461–474.
+[[Link]](http://pio.sagepub.com/cgi/content/abstract/225/4/461)
     
    
     
-27.  Abellán, J., Baker, R.M., Coolen, F.P.A., 2011. Maximising entropy on the nonparametric predictive inference model for multinomial data . European Journal of Operational Research 212, 112–122.
-    
-   
-        
-    
-    [Link](http://www.sciencedirect.com/science/article/pii/S0377221711000488)
+- Abellán, J., Baker, R.M., Coolen, F.P.A., 2011. Maximising entropy on the nonparametric predictive inference model for multinomial data . European Journal of Operational Research 212, 112–122.
+[[Link]](http://www.sciencedirect.com/science/article/pii/S0377221711000488)
     
     
     
