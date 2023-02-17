@@ -117,7 +117,7 @@ permalink: /publications/
     
   
 - Coolen-Maturi, T., Coolen-Schrijner, P., Coolen, F.P.A., 2012. Nonparametric predictive multiple comparisons of lifetime data. Communications in Statistics - Theory and Methods 41, 4164–4181.
-[[Link](http://dx.doi.org/10.1080/03610926.2011.569863)
+[[Link]](http://dx.doi.org/10.1080/03610926.2011.569863)
     
     
     
@@ -191,39 +191,23 @@ permalink: /publications/
 [[Link]](http://dx.doi.org/10.1002/qre.560)
     
     
-41.  Coolen-Schrijner, P., Coolen, F.P.A., 2004. Non-parametric Predictive Inference for Age Replacement with a Renewal Argument. Quality and Reliability Engineering International 20, 203–215.
-    
-  
-    
-    [Link](http://dx.doi.org/10.1002/qre.561)
+- Coolen-Schrijner, P., Coolen, F.P.A., 2004. Non-parametric Predictive Inference for Age Replacement with a Renewal Argument. Quality and Reliability Engineering International 20, 203–215.
+[[Link]](http://dx.doi.org/10.1002/qre.561)
     
    
     
-42.  Arts, G.R.J., Coolen, F.P.A., van der Laan, P., 2004. Nonparametric Predictive Inference in Statistical Process Control. Quality Technology & Quantitative Management 1, 201–216.
-    
-        
-    
-    [Link]( 
-            http://dx.doi.org/10.1080/16843703.2004.11673073
-        
-    )
+- Arts, G.R.J., Coolen, F.P.A., van der Laan, P., 2004. Nonparametric Predictive Inference in Statistical Process Control. Quality Technology & Quantitative Management 1, 201–216.
+[[Link]](http://dx.doi.org/10.1080/16843703.2004.11673073)
     
    
     
-43.  Coolen, F.P.A., Coolen-Schrijner, P., 2003. A nonparametric predictive method for queues . European Journal of Operational Research 145, 425–442.
-    
-  
-    
-    [Link](http://www.sciencedirect.com/science/article/pii/S0377221702001790)
+- Coolen, F.P.A., Coolen-Schrijner, P., 2003. A nonparametric predictive method for queues . European Journal of Operational Research 145, 425–442.
+[[Link]](http://www.sciencedirect.com/science/article/pii/S0377221702001790)
     
    
     
-44.  Coolen, F.P.A., Yan, K.J., 2003. Nonparametric predictive inference for grouped lifetime data . Reliability Engineering & System Safety 80, 243–252.
-    
-
-        
-    
-    [Link](http://www.sciencedirect.com/science/article/pii/S0951832003000334)
+- Coolen, F.P.A., Yan, K.J., 2003. Nonparametric predictive inference for grouped lifetime data . Reliability Engineering & System Safety 80, 243–252.
+[[Link]](http://www.sciencedirect.com/science/article/pii/S0951832003000334)
 
 
 #### 2000-04 {#y2000}
