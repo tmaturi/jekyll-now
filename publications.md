@@ -30,82 +30,54 @@ permalink: /publications/
     
     
 - Bakera, R.M., Coolen-Maturi, T., Coolen, F.P.A., 2017. Nonparametric Predictive Inference for Stock Returns. Journal of Applied Statistics 44, 1333–1349.
-    
-   
-    
-    [PDF](../pdfs/papers/BaCC2016.pdf)
-    
-    [Link](http://dx.doi.org/10.1080/02664763.2016.1204429)
-    
-    
-    
+[[PDF]](../pdfs/papers/BaCC2016.pdf)
+[[Link]](http://dx.doi.org/10.1080/02664763.2016.1204429)
+ 
+ 
 - Coolen-Maturi, T., 2017. Predictive inference for best linear combination of biomarkers subject to limits of detection. Statistics in Medicine 36, 2844–2874.
-    
-
-        
-    
-    [PDF](../pdfs/papers/TCM2017.pdf)
-    
-    [Link](http://dx.doi.org/10.1002/sim.7317)
+[[PDF]](../pdfs/papers/TCM2017.pdf)
+[[Link]](http://dx.doi.org/10.1002/sim.7317)
     
     
     
 - Yin, Y.-C., Coolen, F.P.A., Coolen-Maturi, T., 2017. An imprecise statistical method for accelerated life testing using the power-Weibull model. Reliability Engineering & System Safety 167, 158–167.
-    
-    
-        
-    
-    [PDF](../pdfs/papers/YiCC2017.pdf)
-    
-    [Link](http://www.sciencedirect.com/science/article/pii/S0951832016307591)
+[[PDF]](../pdfs/papers/YiCC2017.pdf)
+[[Link]](http://www.sciencedirect.com/science/article/pii/S0951832016307591)
     
    
     
-- Coolen, F.P.A., Coolen-Maturi, T., 2016. The structure function for system reliability as predictive (imprecise) probability. Reliability Engineering & System Safety 154, 180–187. [[Link]](http://www.sciencedirect.com/science/article/pii/S0951832016301132)
+- Coolen, F.P.A., Coolen-Maturi, T., 2016. The structure function for system reliability as predictive (imprecise) probability. Reliability Engineering & System Safety 154, 180–187. 
+[[Link]](http://www.sciencedirect.com/science/article/pii/S0951832016301132)
     
     
     
 - Coolen-Maturi, T., Coolen, F.P.A., Muhammad, N., 2016. Predictive inference for bivariate data: Combining nonparametric predictive inference for marginals with an estimated copula. Journal of Statistical Theory and Practice 10, 515–538.   
-[Link](http://dx.doi.org/10.1080/15598608.2016.1184112)
+[[Link]](http://dx.doi.org/10.1080/15598608.2016.1184112)
     
     
     
 - Tee, K.F., Khan, L.R., Coolen-Maturi, T., 2015. Application of receiver operating characteristic curve for pipeline reliability analysis. Proceedings of the Institution of Mechanical Engineers, Part O: Journal of Risk and Reliability 229, 181–192.
-    
-   
-    
-    [Link](http://pio.sagepub.com/cgi/content/abstract/229/3/181)
+[[Link]](http://pio.sagepub.com/cgi/content/abstract/229/3/181)
     
    
     
 - Coolen, F.P.A., Coolen-Maturi, T., 2015. Predictive inference for system reliability after common-cause component failures . Reliability Engineering & System Safety 135, 27–33.
-    
-    
-        
-    
-    [Link](http://www.sciencedirect.com/science/article/pii/S0951832014002774)
+[[Link]](http://www.sciencedirect.com/science/article/pii/S0951832014002774)
     
     
     
 - Coolen-Maturi, T., Coolen, F.P.A., 2015. Nonparametric Predictive Inference With Combined Data Under Different Right-Censoring Schemes. Journal of Statistical Theory and Practice 9, 288–304.
-[Link](http://dx.doi.org/10.1080/15598608.2014.886313)
-    
-    
+[[Link]](http://dx.doi.org/10.1080/15598608.2014.886313)
+        
     
 - Coolen-Maturi, T., 2014. Nonparametric predictive pairwise comparison with competing risks . Reliability Engineering & System Safety 132, 146–153.
-    
-    [Link](http://www.sciencedirect.com/science/article/pii/S0951832014001690)
+[[Link]](http://www.sciencedirect.com/science/article/pii/S0951832014001690)
     
     
     
 - Coolen-Maturi, T., Coolen, F.P.A., 2014. Nonparametric predictive inference for combined competing risks data . Reliability Engineering & System Safety 126, 87–97.
-    
-  
-        
-    
-    [Link](http://www.sciencedirect.com/science/article/pii/S0951832014000088)
-    
- 
+[[Link]](http://www.sciencedirect.com/science/article/pii/S0951832014000088)
+     
     
 - Aboalkhair, A.M., Coolen, F.P.A., MacPhee, I.M., 2014. Nonparametric predictive inference for reliability of a k-out-of-m:G system with multiple component types . Reliability Engineering & System Safety 131, 298–304.
 [[Link]](http://www.sciencedirect.com/science/article/pii/S0951832014000787)
@@ -126,71 +98,32 @@ permalink: /publications/
     
     
     
-18.  Aboalkhair, A.M., Coolen, F.P.A., MacPhee, I.M., 2013. Nonparametric predictive reliability of series of voting systems . European Journal of Operational Research 226, 77–84.
-    
- 
-    
-    [Link](http://www.sciencedirect.com/science/article/pii/S0377221712008156)
+- Aboalkhair, A.M., Coolen, F.P.A., MacPhee, I.M., 2013. Nonparametric predictive reliability of series of voting systems . European Journal of Operational Research 226, 77–84.
+[[Link]](http://www.sciencedirect.com/science/article/pii/S0377221712008156)
     
 
     
-19.  Coolen, F.P.A., Coolen-Schrijner, P., Coolen-Maturi, T., Elkhafifi, F.F., 2013. Nonparametric predictive inference for ordinal data. Communications in Statistics - Theory and Methods 42, 3478–3496.
-    
-  
-    
-    [Link]( 
-            http://dx.doi.org/10.1080/03610926.2011.632104
-        
-    )
+- Coolen, F.P.A., Coolen-Schrijner, P., Coolen-Maturi, T., Elkhafifi, F.F., 2013. Nonparametric predictive inference for ordinal data. Communications in Statistics - Theory and Methods 42, 3478–3496.
+[[Link]](http://dx.doi.org/10.1080/03610926.2011.632104)
     
    
+- Houlding, B., Coolen, F.P.A., 2012. Nonparametric predictive utility inference . European Journal of Operational Research 221, 222–230.
+[[Link]](http://www.sciencedirect.com/science/article/pii/S0377221712002330)
     
-20.  Houlding, B., Coolen, F.P.A., 2012. Nonparametric predictive utility inference . European Journal of Operational Research 221, 222–230.
-    
-  
-    
-    [Link](http://www.sciencedirect.com/science/article/pii/S0377221712002330)
-    
+- Elkhafifi, F.F., Coolen, F.P.A., 2012. Nonparametric predictive inference for accuracy of ordinal diagnostic tests. Journal of Statistical Theory and Practice 6, 681–697.
+[[Link]](http://dx.doi.org/10.1080/15598608.2012.719802)
     
     
-21.  Elkhafifi, F.F., Coolen, F.P.A., 2012. Nonparametric predictive inference for accuracy of ordinal diagnostic tests. Journal of Statistical Theory and Practice 6, 681–697.
-    
-  
-    
-    [Link]( 
-            http://dx.doi.org/10.1080/15598608.2012.719802
-        
-    )
-    
-    
-22.  Coolen, F.P.A., Al-nefaiee, A.H., 2012. Nonparametric predictive inference for failure times of systems with exchangeable components. Proceedings of the Institution of Mechanical Engineers, Part O: Journal of Risk and Reliability 226, 262–273.
-    
-  
-    
-    [Link](http://pio.sagepub.com/cgi/content/abstract/226/3/262)
+- Coolen, F.P.A., Al-nefaiee, A.H., 2012. Nonparametric predictive inference for failure times of systems with exchangeable components. Proceedings of the Institution of Mechanical Engineers, Part O: Journal of Risk and Reliability 226, 262–273.
+[[Link]](http://pio.sagepub.com/cgi/content/abstract/226/3/262)
     
    
-    
-23.  Coolen-Maturi, T., Coolen-Schrijner, P., Coolen, F.P.A., 2012. Nonparametric Predictive Inference for Binary Diagnostic Tests. Journal of Statistical Theory and Practice 6, 665–680.
-    
-   
-        
-    
-    [Link]( 
-            http://dx.doi.org/10.1080/15598608.2012.719800
-        
-    )
+- Coolen-Maturi, T., Coolen-Schrijner, P., Coolen, F.P.A., 2012. Nonparametric Predictive Inference for Binary Diagnostic Tests. Journal of Statistical Theory and Practice 6, 665–680.
+[[Link]](http://dx.doi.org/10.1080/15598608.2012.719800)
     
   
-24.  Coolen-Maturi, T., Coolen-Schrijner, P., Coolen, F.P.A., 2012. Nonparametric predictive multiple comparisons of lifetime data. Communications in Statistics - Theory and Methods 41, 4164–4181.
-    
- 
-        
-    
-    [Link]( 
-            http://dx.doi.org/10.1080/03610926.2011.569863
-        
-    )
+- Coolen-Maturi, T., Coolen-Schrijner, P., Coolen, F.P.A., 2012. Nonparametric predictive multiple comparisons of lifetime data. Communications in Statistics - Theory and Methods 41, 4164–4181.
+[[Link](http://dx.doi.org/10.1080/03610926.2011.569863)
     
     
     
