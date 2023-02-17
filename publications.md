@@ -9,6 +9,7 @@ permalink: /publications/
 *   [Proceedings papers](#confint)
 *   [Other](#other)
 
+{#top}
 
 * [2005-09](#y2005)
 * [2000-04](#y2000)
@@ -319,7 +320,7 @@ permalink: /publications/
        
     
 
-### Other {#other}
+### Other {#other} [[top](#top)]
 
 - Coolen-Maturi, T., Elkhafifi, F.F., Coolen, F.P.A., 2013. Nonparametric predictive inference for three-group ROC analysis.
  [[PDF]](../pdfs/papers/CoEC2013.pdf)
