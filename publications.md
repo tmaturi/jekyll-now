@@ -11,7 +11,7 @@ permalink: /publications/
 
 ### Journal articles
 
-1.  Alqifari, H.N., Coolen, F.P.A., 2019. Robustness of Nonparametric Predictive Inference for Future Order Statistics. Journal of Statistical Theory and Practice.
+- Alqifari, H.N., Coolen, F.P.A., 2019. Robustness of Nonparametric Predictive Inference for Future Order Statistics. Journal of Statistical Theory and Practice.
     
     
         
@@ -439,7 +439,7 @@ permalink: /publications/
     
         
 
-### Proceedings papers
+### Proceedings papers {#confint}
 
 1.  Aboalkhair, A.M., Coolen, F.P.A., MacPhee, I.M., 2012. Nonparametric predictive inference for reliability of a series of subsystems with multiple component types, in: Reliability, Risk Management (Proceedings Esrel 2011 Risk Management (Proceedings Esrel 2011 Troyes). C. Bérenguer, A.G., Soares, C.G. (Eds.), Advances in Safety. Taylor & Francis Group, London, . (Abstract page 168 of Book of Abstracts, pp. 1069–1077.
     
@@ -616,43 +616,25 @@ permalink: /publications/
   
         
     
-30.  Coolen, F.P.A., 2006. The occurrence of not yet observed failure modes, in: Safety and Reliability for Managing Risk. C. Guedes Soares, E. Zio. Taylor & Francis, pp. 881–888.
+- Coolen, F.P.A., 2006. The occurrence of not yet observed failure modes, in: Safety and Reliability for Managing Risk. C. Guedes Soares, E. Zio. Taylor & Francis, pp. 881–888.
+            
+- Coolen, F.P.A., Augustin, T., 2005. Learning from multinomial data: a nonparametric predictive alternative to the Imprecise Dirichlet Model, in: Proceedings ISIPTA’05. pp. 125–134.
+[[PDF]](../pdfs/papers/CoAu2005.pdf)
     
- 
-        
+- Coolen-Schrijner, P., Coolen, F.P.A., Shaw, S.C., 2004. Adaptive (opportunity-based) age replacement strategies, in: Proceedings 5th MIMAR. pp. 75–80.
+              
+- Coolen, F.P.A., Yan, K.J., 2003. Nonparametric predictive comparison of two groups of lifetime data, in: Proceedings ISIPTA’03. pp. 148–161.
     
-31.  Coolen, F.P.A., Augustin, T., 2005. Learning from multinomial data: a nonparametric predictive alternative to the Imprecise Dirichlet Model, in: Proceedings ISIPTA’05. pp. 125–134.
+- Coolen-Schrijner, P., Coolen, F.P.A., 2003. Nonparametric predictive inference for age replacement with a renewal argument, in: Proceedings 15th ARTS. pp. 39–54.
     
-
-        
+- Coolen, F.P.A., Yan, K.J., 2002. The use of right-censored data in nonparametric predictive inference, in: Proceedings MMR’02. pp. 155–158.
     
-    [PDF](../pdfs/papers/CoAu2005.pdf)
-    
-32.  Coolen-Schrijner, P., Coolen, F.P.A., Shaw, S.C., 2004. Adaptive (opportunity-based) age replacement strategies, in: Proceedings 5th MIMAR. pp. 75–80.
-    
-   
-        
-    
-33.  Coolen, F.P.A., Yan, K.J., 2003. Nonparametric predictive comparison of two groups of lifetime data, in: Proceedings ISIPTA’03. pp. 148–161.
-    
-   
-    
-34.  Coolen-Schrijner, P., Coolen, F.P.A., 2003. Nonparametric predictive inference for age replacement with a renewal argument, in: Proceedings 15th ARTS. pp. 39–54.
-    
-   
-    
-35.  Coolen, F.P.A., Yan, K.J., 2002. The use of right-censored data in nonparametric predictive inference, in: Proceedings MMR’02. pp. 155–158.
-    
-    
-        
+       
     
 
 ### Other
 
 - Coolen-Maturi, T., Elkhafifi, F.F., Coolen, F.P.A., 2013. Nonparametric predictive inference for three-group ROC analysis.
-    
- 
-    
-    [PDF](../pdfs/papers/CoEC2013.pdf)
+ [[PDF]](../pdfs/papers/CoEC2013.pdf)
     
    
