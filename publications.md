@@ -10,9 +10,9 @@ permalink: /publications/
 *   [Other](#other)
 
 
-* [2005-09](#2005_09)
-* [2000-04](#2000_04)
-* [1995-99](#1995_99)
+* [2005-09](#2005)
+* [2000-04](#2000)
+* [1995-99](#1995)
 
 ### Journal articles {#journal}
 
@@ -285,12 +285,12 @@ permalink: /publications/
     [Link](http://www.sciencedirect.com/science/article/pii/S0951832003000334)
 
 
-#### 2000-04 {#2000_04}
+#### 2000-04 {#2000}
     
 45.  Coolen, F.P.A., Coolen-Schrijner, P., Yan, K.J., 2002. Nonparametric predictive inference in reliability . Reliability Engineering & System Safety 78, 185–193. 
 [[Link]](http://www.sciencedirect.com/science/article/pii/S095183200200162X)
     
-#### 1995-99 {#1995_99}
+#### 1995-99 {#1995}
     
 - Coolen, F.P.A., 1998. Low structure imprecise predictive inference for Bayes’ problem . Statistics & Probability Letters 36, 349–357.
 [[Link]](http://www.sciencedirect.com/science/article/pii/S0167715297000813)
