@@ -187,6 +187,11 @@ permalink: /publications/
 [[Link]](http://pio.sagepub.com/cgi/content/abstract/221/4/319)
     
     
+
+
+#### 2000-04 {#y2000}
+
+
     
 - Coolen, F.P.A., 2004. On the Use of Imprecise Probabilities in Reliability. Quality and Reliability Engineering International 20, 193–202.
 [[Link]](http://dx.doi.org/10.1002/qre.560)
@@ -210,10 +215,7 @@ permalink: /publications/
 - Coolen, F.P.A., Yan, K.J., 2003. Nonparametric predictive inference for grouped lifetime data . Reliability Engineering & System Safety 80, 243–252.
 [[Link]](http://www.sciencedirect.com/science/article/pii/S0951832003000334)
 
-
-#### 2000-04 {#y2000}
-    
-45.  Coolen, F.P.A., Coolen-Schrijner, P., Yan, K.J., 2002. Nonparametric predictive inference in reliability . Reliability Engineering & System Safety 78, 185–193. 
+- Coolen, F.P.A., Coolen-Schrijner, P., Yan, K.J., 2002. Nonparametric predictive inference in reliability . Reliability Engineering & System Safety 78, 185–193. 
 [[Link]](http://www.sciencedirect.com/science/article/pii/S095183200200162X)
     
 #### 1995-99 {#y1995}
