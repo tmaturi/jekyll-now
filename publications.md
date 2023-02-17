@@ -16,21 +16,16 @@ permalink: /publications/
 [[PDF]](../pdfs/papers/Alqifari2019.pdf)
 [[Link]](https://link.springer.com/content/pdf/10.1007%2Fs42519-018-0011-x.pdf)
     
-- Coolen-Maturi, T., 2018. Three-group ROC predictive analysis for ordinal outcomes. Communications in Statistics – Theory and Methods, to appear. 46, 9476–9493. [[PDF]](../pdfs/papers/TCM2018.pdf) [[Link]](http://dx.doi.org/10.1080/03610926.2016.1212074)
-    
+- Coolen-Maturi, T., 2018. Three-group ROC predictive analysis for ordinal outcomes. Communications in Statistics – Theory and Methods, to appear. 46, 9476–9493. [[PDF]](../pdfs/papers/TCM2018.pdf) [[Link]](http://dx.doi.org/10.1080/03610926.2016.1212074)    
    
-    
-3.  Coolen, F.P.A., Coolen-Maturi, T., Alqifari, H.N., 2018. Nonparametric predictive inference for future order statistics. Communications in Statistics - Theory and Methods, to appear. 47, 2527–2548.
-    
-    
-        
-    
+- Coolen, F.P.A., Coolen-Maturi, T., Alqifari, H.N., 2018. Nonparametric predictive inference for future order statistics. Communications in Statistics - Theory and Methods, to appear. 47, 2527–2548.
+   
     [PDF](../pdfs/papers/CoCA2018.pdf)
     
     [Link](http://dx.doi.org/10.1080/03610926.2017.1342834)
     
     
-4.  Bakera, R.M., Coolen-Maturi, T., Coolen, F.P.A., 2017. Nonparametric Predictive Inference for Stock Returns. Journal of Applied Statistics 44, 1333–1349.
+- Bakera, R.M., Coolen-Maturi, T., Coolen, F.P.A., 2017. Nonparametric Predictive Inference for Stock Returns. Journal of Applied Statistics 44, 1333–1349.
     
    
     
@@ -40,7 +35,7 @@ permalink: /publications/
     
     
     
-5.  Coolen-Maturi, T., 2017. Predictive inference for best linear combination of biomarkers subject to limits of detection. Statistics in Medicine 36, 2844–2874.
+- Coolen-Maturi, T., 2017. Predictive inference for best linear combination of biomarkers subject to limits of detection. Statistics in Medicine 36, 2844–2874.
     
 
         
@@ -51,7 +46,7 @@ permalink: /publications/
     
     
     
-6.  Yin, Y.-C., Coolen, F.P.A., Coolen-Maturi, T., 2017. An imprecise statistical method for accelerated life testing using the power-Weibull model. Reliability Engineering & System Safety 167, 158–167.
+- Yin, Y.-C., Coolen, F.P.A., Coolen-Maturi, T., 2017. An imprecise statistical method for accelerated life testing using the power-Weibull model. Reliability Engineering & System Safety 167, 158–167.
     
     
         
@@ -62,28 +57,16 @@ permalink: /publications/
     
    
     
-7.  Coolen, F.P.A., Coolen-Maturi, T., 2016. The structure function for system reliability as predictive (imprecise) probability. Reliability Engineering & System Safety 154, 180–187.
-    
-    
-        
-    
-    [Link](http://www.sciencedirect.com/science/article/pii/S0951832016301132)
+- Coolen, F.P.A., Coolen-Maturi, T., 2016. The structure function for system reliability as predictive (imprecise) probability. Reliability Engineering & System Safety 154, 180–187. [[Link]](http://www.sciencedirect.com/science/article/pii/S0951832016301132)
     
     
     
-8.  Coolen-Maturi, T., Coolen, F.P.A., Muhammad, N., 2016. Predictive inference for bivariate data: Combining nonparametric predictive inference for marginals with an estimated copula. Journal of Statistical Theory and Practice 10, 515–538.
-    
-   
-        
-    
-    [Link]( 
-            http://dx.doi.org/10.1080/15598608.2016.1184112
-        
-    )
+- Coolen-Maturi, T., Coolen, F.P.A., Muhammad, N., 2016. Predictive inference for bivariate data: Combining nonparametric predictive inference for marginals with an estimated copula. Journal of Statistical Theory and Practice 10, 515–538.   
+[Link](http://dx.doi.org/10.1080/15598608.2016.1184112)
     
     
     
-9.  Tee, K.F., Khan, L.R., Coolen-Maturi, T., 2015. Application of receiver operating characteristic curve for pipeline reliability analysis. Proceedings of the Institution of Mechanical Engineers, Part O: Journal of Risk and Reliability 229, 181–192.
+- Tee, K.F., Khan, L.R., Coolen-Maturi, T., 2015. Application of receiver operating characteristic curve for pipeline reliability analysis. Proceedings of the Institution of Mechanical Engineers, Part O: Journal of Risk and Reliability 229, 181–192.
     
    
     
@@ -91,7 +74,7 @@ permalink: /publications/
     
    
     
-10.  Coolen, F.P.A., Coolen-Maturi, T., 2015. Predictive inference for system reliability after common-cause component failures . Reliability Engineering & System Safety 135, 27–33.
+- Coolen, F.P.A., Coolen-Maturi, T., 2015. Predictive inference for system reliability after common-cause component failures . Reliability Engineering & System Safety 135, 27–33.
     
     
         
@@ -100,28 +83,18 @@ permalink: /publications/
     
     
     
-11.  Coolen-Maturi, T., Coolen, F.P.A., 2015. Nonparametric Predictive Inference With Combined Data Under Different Right-Censoring Schemes. Journal of Statistical Theory and Practice 9, 288–304.
-    
-   
-        
-    
-    [Link]( 
-            http://dx.doi.org/10.1080/15598608.2014.886313
-        
-    )
+- Coolen-Maturi, T., Coolen, F.P.A., 2015. Nonparametric Predictive Inference With Combined Data Under Different Right-Censoring Schemes. Journal of Statistical Theory and Practice 9, 288–304.
+[Link](http://dx.doi.org/10.1080/15598608.2014.886313)
     
     
     
-12.  Coolen-Maturi, T., 2014. Nonparametric predictive pairwise comparison with competing risks . Reliability Engineering & System Safety 132, 146–153.
-    
-
-        
+- Coolen-Maturi, T., 2014. Nonparametric predictive pairwise comparison with competing risks . Reliability Engineering & System Safety 132, 146–153.
     
     [Link](http://www.sciencedirect.com/science/article/pii/S0951832014001690)
     
     
     
-13.  Coolen-Maturi, T., Coolen, F.P.A., 2014. Nonparametric predictive inference for combined competing risks data . Reliability Engineering & System Safety 126, 87–97.
+- Coolen-Maturi, T., Coolen, F.P.A., 2014. Nonparametric predictive inference for combined competing risks data . Reliability Engineering & System Safety 126, 87–97.
     
   
         
