@@ -136,118 +136,59 @@ permalink: /publications/
     
     
     
-28.  Roelofs, V.J., Coolen, F.P.A., Hart, A.D.M., 2011. Nonparametric Predictive Inference for Exposure Assessment. Risk Analysis 31, 218–227.
-    
-    
-        
-    
-    [Link](http://dx.doi.org/10.1111/j.1539-6924.2010.01490.x)
+- Roelofs, V.J., Coolen, F.P.A., Hart, A.D.M., 2011. Nonparametric Predictive Inference for Exposure Assessment. Risk Analysis 31, 218–227.
+[[Link]](http://dx.doi.org/10.1111/j.1539-6924.2010.01490.x)
     
     
     
-29.  Baker, R.M., Coolen, F.P.A., 2010. Nonparametric predictive category selection for multinomial data. Journal of Statistical Theory and Practice 4, 509–526.
+- Baker, R.M., Coolen, F.P.A., 2010. Nonparametric predictive category selection for multinomial data. Journal of Statistical Theory and Practice 4, 509–526.
+[[Link]](http://dx.doi.org/10.1080/15598608.2010.10412000)
     
-    
-        
-    
-    [Link]( 
-            http://dx.doi.org/10.1080/15598608.2010.10412000
-        
-    )
+- Maturi, T.A., Coolen-Schrijner, P., Coolen, F.P.A., 2010. Nonparametric predictive inference for competing risks. Proceedings of the Institution of Mechanical Engineers, Part O: Journal of Risk and Reliability 224, 11–26.
+[[Link]](http://pio.sagepub.com/cgi/content/abstract/224/1/11)
     
    
     
-30.  Maturi, T.A., Coolen-Schrijner, P., Coolen, F.P.A., 2010. Nonparametric predictive inference for competing risks. Proceedings of the Institution of Mechanical Engineers, Part O: Journal of Risk and Reliability 224, 11–26.
+- Coolen, F.P.A., Augustin, T., 2009. A nonparametric predictive alternative to the Imprecise Dirichlet Model: The case of a known number of categories . International Journal of Approximate Reasoning 50, 217–230.
+[[Link]](http://www.sciencedirect.com/science/article/pii/S0888613X08000583)
+    
+    
+    
+- Coolen, F.P.A., Elsaeiti, M.A., 2009. Nonparametric Predictive Methods for Acceptance Sampling. Journal of Statistical Theory and Practice 3, 907–921.
+[[Link]](http://dx.doi.org/10.1080/15598608.2009.10411969)
     
    
-        
-    
-    [Link](http://pio.sagepub.com/cgi/content/abstract/224/1/11)
-    
-   
-    
-31.  Coolen, F.P.A., Augustin, T., 2009. A nonparametric predictive alternative to the Imprecise Dirichlet Model: The case of a known number of categories . International Journal of Approximate Reasoning 50, 217–230.
-    
-   
-    
-    [Link](http://www.sciencedirect.com/science/article/pii/S0888613X08000583)
-    
-    
-    
-32.  Coolen, F.P.A., Elsaeiti, M.A., 2009. Nonparametric Predictive Methods for Acceptance Sampling. Journal of Statistical Theory and Practice 3, 907–921.
-    
-   
-        
-    
-    [Link]( 
-            http://dx.doi.org/10.1080/15598608.2009.10411969
-        
-    )
-    
-   
-    
-33.  Coolen-Schrijner, P., Maturi, T.A., Coolen, F.P.A., 2009. Nonparametric Predictive Precedence Testing for Two Groups. Journal of Statistical Theory and Practice 3, 273–287.
-    
-    
-        
-    
-    [Link]( 
-            http://dx.doi.org/10.1080/15598608.2009.10411925
-        
-    )
+- Coolen-Schrijner, P., Maturi, T.A., Coolen, F.P.A., 2009. Nonparametric Predictive Precedence Testing for Two Groups. Journal of Statistical Theory and Practice 3, 273–287.
+[[Link]](http://dx.doi.org/10.1080/15598608.2009.10411925)
 
     
-34.  MacPhee, I.M., Coolen, F.P.A., Aboalkhair, A.M., 2009. Nonparametric predictive system reliability with redundancy allocation following component testing. Proceedings of the Institution of Mechanical Engineers, Part O: Journal of Risk and Reliability 223, 181–188.
-    
-
-    
-    [Link](http://pio.sagepub.com/cgi/content/abstract/223/3/181)
+- MacPhee, I.M., Coolen, F.P.A., Aboalkhair, A.M., 2009. Nonparametric predictive system reliability with redundancy allocation following component testing. Proceedings of the Institution of Mechanical Engineers, Part O: Journal of Risk and Reliability 223, 181–188.
+[[Link]](http://pio.sagepub.com/cgi/content/abstract/223/3/181)
     
     
     
-35.  Maturi, T.A., Coolen-Schrijner, P., Coolen, F.P.A., 2009. Nonparametric predictive pairwise comparison for real-valued data with terminated tails . International Journal of Approximate Reasoning 51, 141–150.
-    
-   
-    
-    [Link](http://www.sciencedirect.com/science/article/pii/S0888613X0900142X)
+- Maturi, T.A., Coolen-Schrijner, P., Coolen, F.P.A., 2009. Nonparametric predictive pairwise comparison for real-valued data with terminated tails . International Journal of Approximate Reasoning 51, 141–150.
+[[Link]](http://www.sciencedirect.com/science/article/pii/S0888613X0900142X)
     
     
-    
-36.  Coolen-Schrijner, P., Coolen, F.P.A., MacPhee, I.M., 2008. Nonparametric predictive inference for system reliability with redundancy allocation. Proceedings of the Institution of Mechanical Engineers, Part O: Journal of Risk and Reliability 222, 463–476.
-
-        
-    
-    [Link](http://pio.sagepub.com/cgi/content/abstract/222/4/463)
+- Coolen-Schrijner, P., Coolen, F.P.A., MacPhee, I.M., 2008. Nonparametric predictive inference for system reliability with redundancy allocation. Proceedings of the Institution of Mechanical Engineers, Part O: Journal of Risk and Reliability 222, 463–476.
+[[Link]](http://pio.sagepub.com/cgi/content/abstract/222/4/463)
     
     
-37.  Arts, G.R.J., Coolen, F.P.A., 2008. Two Nonparametric Predictive Control Charts. Journal of Statistical Theory and Practice 2, 499–512.
-
+- Arts, G.R.J., Coolen, F.P.A., 2008. Two Nonparametric Predictive Control Charts. Journal of Statistical Theory and Practice 2, 499–512.
+[[Link]](http://dx.doi.org/10.1080/15598608.2008.10411890)
     
-    [Link]( 
-            http://dx.doi.org/10.1080/15598608.2008.10411890
-        
-    )
+- Coolen, F.P.A., 2007. Non-parametric prediction of unobserved failure modes. Proceedings of the Institution of Mechanical Engineers, Part O: Journal of Risk and Reliability 221, 207–216.
+[[Link]](http://pio.sagepub.com/cgi/content/abstract/221/3/207)
     
     
-38.  Coolen, F.P.A., 2007. Non-parametric prediction of unobserved failure modes. Proceedings of the Institution of Mechanical Engineers, Part O: Journal of Risk and Reliability 221, 207–216.
-   
-    [Link](http://pio.sagepub.com/cgi/content/abstract/221/3/207)
-    
-    
-39.  Coolen-Schrijner, P., Coolen, F.P.A., 2007. Nonparametric predictive comparison of success-failure data in reliability. Proceedings of the Institution of Mechanical Engineers, Part O: Journal of Risk and Reliability 221, 319–327.
-    
-   
-    
-    [Link](http://pio.sagepub.com/cgi/content/abstract/221/4/319)
+- Coolen-Schrijner, P., Coolen, F.P.A., 2007. Nonparametric predictive comparison of success-failure data in reliability. Proceedings of the Institution of Mechanical Engineers, Part O: Journal of Risk and Reliability 221, 319–327.
+[[Link]](http://pio.sagepub.com/cgi/content/abstract/221/4/319)
     
     
     
-40.  Coolen, F.P.A., 2004. On the Use of Imprecise Probabilities in Reliability. Quality and Reliability Engineering International 20, 193–202.
-    
-   
-        
-    
-    [Link](http://dx.doi.org/10.1002/qre.560)
+- Coolen, F.P.A., 2004. On the Use of Imprecise Probabilities in Reliability. Quality and Reliability Engineering International 20, 193–202.
+[[Link]](http://dx.doi.org/10.1002/qre.560)
     
     
 41.  Coolen-Schrijner, P., Coolen, F.P.A., 2004. Non-parametric Predictive Inference for Age Replacement with a Renewal Argument. Quality and Reliability Engineering International 20, 203–215.
