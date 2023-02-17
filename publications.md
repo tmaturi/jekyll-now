@@ -9,27 +9,14 @@ permalink: /publications/
 *   [Proceedings papers](#confint)
 *   [Other](#other)
 
-### Journal articles
 
-- Alqifari, H.N., Coolen, F.P.A., 2019. Robustness of Nonparametric Predictive Inference for Future Order Statistics. Journal of Statistical Theory and Practice.
+### Journal articles {#journal}
+
+- Alqifari, H.N., Coolen, F.P.A., 2019. Robustness of Nonparametric Predictive Inference for Future Order Statistics. Journal of Statistical Theory and Practice. 
+[[PDF]](../pdfs/papers/Alqifari2019.pdf)
+[[Link]](https://link.springer.com/content/pdf/10.1007%2Fs42519-018-0011-x.pdf)
     
-    
-        
-    
-    [PDF](../pdfs/papers/Alqifari2019.pdf)
-    
-    [Link](https://link.springer.com/content/pdf/10.1007%2Fs42519-018-0011-x.pdf)
-    
-    
-    
-2.  Coolen-Maturi, T., 2018. Three-group ROC predictive analysis for ordinal outcomes. Communications in Statistics – Theory and Methods, to appear. 46, 9476–9493.
-    
- 
-        
-    
-    [PDF](../pdfs/papers/TCM2018.pdf)
-    
-    [Link](http://dx.doi.org/10.1080/03610926.2016.1212074)
+- Coolen-Maturi, T., 2018. Three-group ROC predictive analysis for ordinal outcomes. Communications in Statistics – Theory and Methods, to appear. 46, 9476–9493. [[PDF]](../pdfs/papers/TCM2018.pdf) [[Link]](http://dx.doi.org/10.1080/03610926.2016.1212074)
     
    
     
@@ -632,7 +619,7 @@ permalink: /publications/
        
     
 
-### Other
+### Other {#other}
 
 - Coolen-Maturi, T., Elkhafifi, F.F., Coolen, F.P.A., 2013. Nonparametric predictive inference for three-group ROC analysis.
  [[PDF]](../pdfs/papers/CoEC2013.pdf)
