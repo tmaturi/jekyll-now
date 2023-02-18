@@ -35,6 +35,7 @@ permalink: /publications/
 
 * [Article](#Article)
 
+* [Proceedings](#Proceedings)
 
 ### Journal articles {#journal}
 
