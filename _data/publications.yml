@@ -15,10 +15,9 @@
     - Jane Smith
   year: 2022
   conference: Proceedings of Another Conference
-  url: http://example.com/paper2.pdf
-  optional:
-    pdf: http://example.com/paper2.pdf
-    code: http://example.com/code2.R
+  link: http://example.com/paper2.pdf
+  pdf: http://example.com/paper2.pdf
+  code: http://example.com/code2.R
   type: Proceedings
 
 - title: Example Publication 3
@@ -27,10 +26,9 @@
     - Jane Smith
   year: 2018
   conference: Proceedings of Third Conference
-  url: http://example.com/paper3.pdf
-  optional:
-    pdf: http://example.com/paper3.pdf
-    code: http://example.com/code3.R
+  link: http://example.com/paper3.pdf
+  pdf: http://example.com/paper3.pdf
+  code: http://example.com/code3.R
   type: Proceedings
 
 - title: Example Publication 4
@@ -39,13 +37,10 @@
     - Jane Smith
   year: 2017
   conference: Proceedings of Fourth Conference
-  url: http://example.com/paper4.pdf
-  optional:
-    pdf: http://example.com/paper4.pdf
-    code: http://example.com/code4.R
-  categories:
-    - Proceedings
-    - 2015-19
+  link: http://example.com/paper4.pdf
+  pdf: http://example.com/paper4.pdf
+  code: http://example.com/code4.R
+  type: Article
 
 - title: Example Publication 5
   authors:
@@ -53,13 +48,10 @@
     - Jane Smith
   year: 2016
   conference: Proceedings of Fifth Conference
-  url: http://example.com/paper5.pdf
-  optional:
-    pdf: http://example.com/paper5.pdf
-    code: http://example.com/code5.R
-  categories:
-    - Papers
-    - 2015-19
+  link: http://example.com/paper5.pdf
+  pdf: http://example.com/paper5.pdf
+  code: http://example.com/code5.R
+  type: Article
 
 - title: Example Publication 6
   authors:
@@ -67,10 +59,7 @@
     - Jane Smith
   year: 2014
   conference: Proceedings of Sixth Conference
-  url: http://example.com/paper6.pdf
-  optional:
-    pdf: http://example.com/paper6.pdf
-    code: http://example.com/code6.R
-  categories:
-    - Proceedings
-    - 2010-14
+  link: http://example.com/paper6.pdf
+  pdf: http://example.com/paper6.pdf
+  code: http://example.com/code6.R
+  type: Article
