@@ -13,7 +13,7 @@ permalink: /publications/
 {% assign types = site.data.publications | map: 'type' | uniq %}
 
 {% for type in types %}
- **{{ type }}**  "#{{ type }}" 
+  <h2 id="{{ type }}">{{ type }}</h2>
   {% assign type_pubs = site.data.publications | where: 'type', type %}
   {% assign years = type_pubs | map: 'year' | uniq | sort | reverse %}
   {% for year in years %}
