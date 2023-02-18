@@ -38,10 +38,7 @@ permalink: /publications/
 {% for year in publications_by_year %}
   <h2>{{ year.name }}</h2>
   {% for publication in year.items %}
-    <h3>{{ publication.title }}</h3>
-    <p>{{ publication.authors | join: ', ' }}</p>
-    <p>{{ publication.venue }}</p>
-    <p>{{ publication.year }}</p>
+{{ publication.authors | join: ', '}}, {{ publication.year }}. {{ publication.title }}, {{ publication.keywords }}.
     {% if publication.link %}
     <p><a href="{{ publication.link }}">Link</a></p>
     {% endif %}
