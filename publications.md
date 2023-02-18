@@ -34,10 +34,6 @@ permalink: /publications/
 
 
 
----
-layout: default
-title: Publications
----
 
 <h1>Publications</h1>
 
