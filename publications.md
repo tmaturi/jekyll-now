@@ -34,70 +34,32 @@ permalink: /publications/
 
 
 
+---
+layout: default
+title: Publications
+---
 
-<h1>Publications</h1>
+{% assign publications = site.data.publications | sort: 'year' | reverse %}
 
-{% assign pub_years = "" %}
-
-{% for pub in site.data.publications %}
-  {% assign pub_years = pub_years | append: pub.year | append: "," %}
+{% for year in (publications | map: 'year' | uniq) %}
+<h2>{{ year }} - {{ year | plus: 4 }}</h2>
+{% assign pubs_in_year = publications | where: "year", year %}
+{% for pub in pubs_in_year %}
+<div>
+  {{ pub.authors }}. "{{ pub.title }}." <em>{{ pub.journal }}</em>, {{ pub.year }}.
+  {% if pub.link %}
+    <a href="{{ pub.link }}">[link]</a>
+  {% endif %}
+  {% if pub.pdf %}
+    <a href="{{ pub.pdf }}">[pdf]</a>
+  {% endif %}
+  {% if pub.code %}
+    <a href="{{ pub.code }}">[code]</a>
+  {% endif %}
+</div>
+{% endfor %}
 {% endfor %}
 
-{% assign pub_years = pub_years | split: "," | uniq | sort | reverse %}
-
-{% for year in pub_years %}
-  {% if year != "" %}
-    <h2>{{ year }}</h2>
-    {% assign year_int = year | plus: 0 %}
-    {% assign group_start = year_int | minus: year_int | modulo: 5 %}
-    {% assign group_end = group_start | plus: 5 %}
-    {% for pub in site.data.publications %}
-      {% assign pub_year_int = pub.year | plus: 0 %}
-      {% if pub_year_int >= group_start and pub_year_int < group_end and pub.year == year %}
-        {% if pub.pdf != null %}
-          <p><strong>{{ pub.authors }}</strong>, {{ pub.title }}. <em>{{ pub.journal }}</em>, {{ pub.year }}. [<a href="{{ pub.pdf }}">PDF</a>{% if pub.data != null %}, <a href="{{ pub.data }}">Data</a>{% endif %}{% if pub.code != null %}, <a href="{{ pub.code }}">Code</a>{% endif %}]</p>
-        {% else %}
-          <p><strong>{{ pub.authors }}</strong>, {{ pub.title }}. <em>{{ pub.journal }}</em>, {{ pub.year }}.{% if pub.data != null %} [<a href="{{ pub.data }}">Data</a>{% endif %}{% if pub.code != null %}, <a href="{{ pub.code }}">Code</a>{% endif %}]</p>
-        {% endif %}
-      {% endif %}
-    {% endfor %}
-  {% endif %}
-{% endfor %}
-
-
-
-{% for group in site.data.publications | group_by_exp: 'item', 'item.year | date: "%Y"' %}
-  <h2>{{ group.name }}</h2>
-  {% for publication in group.items %}
-    <h3>{{ publication.title }}</h3>
-    <p>{{ publication.author }} ({{ publication.year }})</p>
-    {% if publication.link %}
-      <p><a href="{{ publication.link }}">Link</a></p>
-    {% endif %}
-    {% if publication.pdf %}
-      <p><a href="{{ publication.pdf }}">PDF</a></p>
-    {% endif %}
-    {% if publication.code %}
-      <p><a href="{{ publication.code }}">R Code</a></p>
-    {% endif %}
-  {% endfor %}
-{% endfor %}
-
-
-
-{% for publication in site.data.publications %}
-  <h3>{{ publication.title }}</h3>
-  <p>{{ publication.author }} ({{ publication.year }})</p>
-  {% if publication.link %}
-    <p><a href="{{ publication.link }}">Link</a></p>
-  {% endif %}
-  {% if publication.pdf %}
-    <p><a href="{{ publication.pdf }}">PDF</a></p>
-  {% endif %}
-  {% if publication.code %}
-    <p><a href="{{ publication.code }}">R Code</a></p>
-  {% endif %}
-{% endfor %}
 
 
 * [2005-09](#y2005)
