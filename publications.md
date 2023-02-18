@@ -33,81 +33,27 @@ permalink: /publications/
 {% endfor %}
 
 
-{% assign publications_by_first_category = site.publications | group_by: 'categories[0]' %}
+{% assign publications_by_year = site.data.publications | group_by_exp:"item", "item.year" | reverse %}
 
-{% for first_category in publications_by_first_category %}
-  <h2>{{ first_category.name }}</h2>
-  {% assign publications_by_second_category = first_category.items | group_by: 'categories[1]' %}
-  {% for second_category in publications_by_second_category %}
-    <h3>{{ second_category.name }}</h3>
-    <ul>
-      {% for publication in second_category.items %}
-        <li>
-          <strong>{{ publication.title }}</strong> {% if publication.coauthors %} (with {{ publication.coauthors }}){% endif %}
-          <br>
-          {{ publication.authors }}
-          <br>
-          {{ publication.year }}, {{ publication.venue }}
-          {% if publication.link %}
-            [<a href="{{ publication.link }}">link</a>]
-          {% endif %}
-          {% if publication.pdf %}
-            [<a href="{{ publication.pdf }}">pdf</a>]
-          {% endif %}
-          {% if publication.code %}
-            [<a href="{{ publication.code }}">code</a>]
-          {% endif %}
-        </li>
-      {% endfor %}
-    </ul>
+{% for year in publications_by_year %}
+  <h2>{{ year.name }}</h2>
+  {% for publication in year.items %}
+    <h3>{{ publication.title }}</h3>
+    <p>{{ publication.authors | join: ', ' }}</p>
+    <p>{{ publication.venue }}</p>
+    <p>{{ publication.year }}</p>
+    {% if publication.link %}
+    <p><a href="{{ publication.link }}">Link</a></p>
+    {% endif %}
+    {% if publication.pdf %}
+    <p><a href="{{ publication.pdf }}">PDF</a></p>
+    {% endif %}
+    {% if publication.code %}
+    <p><a href="{{ publication.code }}">Code</a></p>
+    {% endif %}
   {% endfor %}
 {% endfor %}
 
-
-{% assign categories = site.data.publications | map: 'category1' | concat: site.data.publications | map: 'category2' %}
-{% assign unique_categories = categories | uniq %}
-
-{% for category in unique_categories %}
-  <h2>{{ category }}</h2>
-  {% assign publications_in_category = site.data.publications | where: 'category1', category %}
-  {% assign publications_in_category = publications_in_category | concat: site.data.publications | where: 'category2', category %}
-
-  {% for publication in publications_in_category %}
-    <div>
-      <h3>{{ publication.title }}</h3>
-      <p>{{ publication.authors }}, {{ publication.year }}</p>
-      {% if publication.link %}
-        <p><a href="{{ publication.link }}">Link</a></p>
-      {% endif %}
-      {% if publication.pdf %}
-        <p><a href="{{ publication.pdf }}">PDF</a></p>
-      {% endif %}
-      {% if publication.code %}
-        <p><a href="{{ publication.code }}">Code</a></p>
-      {% endif %}
-    </div>
-  {% endfor %}
-{% endfor %}
-
-
-
-
-{% assign sorted_years = site.publications | sort:"year" | reverse | group_by_exp:"item","item.year | date: '%Y'" %}
-
-{% for year in sorted_years %}
-  <h3 class="year">{{ year.name }}</h3>
-  <ul>
-  {% assign publications_in_year = site.publications | where:"year", year.name %}
-  {% for publication in publications_in_year %}
-    <li class="publication">
-      {{ publication.authors }}. {{ publication.title }}. <em>{{ publication.journal }}</em>, {{ publication.year }}{% if publication.volume %}, {{ publication.volume }}{% endif %}{% if publication.pages %}, {{ publication.pages }}.{% endif %}
-      {% if publication.link %}<br/><a href="{{ publication.link }}">Link</a>{% endif %}
-      {% if publication.pdf %}<br/><a href="{{ publication.pdf }}">PDF</a>{% endif %}
-      {% if publication.code %}<br/><a href="{{ publication.code }}">Code</a>{% endif %}
-    </li>
-  {% endfor %}
-  </ul>
-{% endfor %}
 
 
 
