@@ -36,22 +36,32 @@ permalink: /publications/
 
 
 
-{% for group in site.data.publications | group_by_exp: 'item', 'item.year | date: "%Y"' %}
-  <h2>{{ group.name }}</h2>
-  {% for publication in group.items %}
-    <h3>{{ publication.title }}</h3>
-    <p>{{ publication.author }} ({{ publication.year }})</p>
-    {% if publication.link %}
-      <p><a href="{{ publication.link }}">Link</a></p>
-    {% endif %}
-    {% if publication.pdf %}
-      <p><a href="{{ publication.pdf }}">PDF</a></p>
-    {% endif %}
-    {% if publication.code %}
-      <p><a href="{{ publication.code }}">R Code</a></p>
-    {% endif %}
-  {% endfor %}
+<h1>Publications</h1>
+
+{% assign pub_years = "" %}
+
+{% for pub in site.data.publications %}
+  {% assign pub_years = pub_years | append: pub.year | append: "," %}
 {% endfor %}
+
+{% assign pub_years = pub_years | split: "," | uniq | sort | reverse %}
+
+{% for year in pub_years %}
+  {% if year != "" %}
+    <h2>{{ year }}</h2>
+    {% assign year_int = year | plus: 0 %}
+    {% for pub in site.data.publications %}
+      {% if pub.year == year %}
+        {% if pub.pdf != null %}
+          <p><strong>{{ pub.authors }}</strong>, {{ pub.title }}. <em>{{ pub.journal }}</em>, {{ pub.year }}. [<a href="{{ pub.pdf }}">PDF</a>{% if pub.data != null %}, <a href="{{ pub.data }}">Data</a>{% endif %}{% if pub.code != null %}, <a href="{{ pub.code }}">Code</a>{% endif %}]</p>
+        {% else %}
+          <p><strong>{{ pub.authors }}</strong>, {{ pub.title }}. <em>{{ pub.journal }}</em>, {{ pub.year }}.{% if pub.data != null %} [<a href="{{ pub.data }}">Data</a>{% endif %}{% if pub.code != null %}, <a href="{{ pub.code }}">Code</a>{% endif %}]</p>
+        {% endif %}
+      {% endif %}
+    {% endfor %}
+  {% endif %}
+{% endfor %}
+
 
 * [2005-09](#y2005)
 * [2000-04](#y2000)
