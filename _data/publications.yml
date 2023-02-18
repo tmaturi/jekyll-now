@@ -30,3 +30,36 @@
   optional:
     pdf: http://example.com/paper3.pdf
     code: http://example.com/code3.R
+
+- title: Example Publication 4
+  authors:
+    - John Doe
+    - Jane Smith
+  year: 2017
+  conference: Proceedings of Fourth Conference
+  url: http://example.com/paper4.pdf
+  optional:
+    pdf: http://example.com/paper4.pdf
+    code: http://example.com/code4.R
+
+- title: Example Publication 5
+  authors:
+    - John Doe
+    - Jane Smith
+  year: 2016
+  conference: Proceedings of Fifth Conference
+  url: http://example.com/paper5.pdf
+  optional:
+    pdf: http://example.com/paper5.pdf
+    code: http://example.com/code5.R
+
+- title: Example Publication 6
+  authors:
+    - John Doe
+    - Jane Smith
+  year: 2014
+  conference: Proceedings of Sixth Conference
+  url: http://example.com/paper6.pdf
+  optional:
+    pdf: http://example.com/paper6.pdf
+    code: http://example.com/code6.R
