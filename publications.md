@@ -34,7 +34,10 @@ permalink: /publications/
 
 
 
-
+---
+layout: default
+title: Publications
+---
 
 <h1>Publications</h1>
 
@@ -50,8 +53,11 @@ permalink: /publications/
   {% if year != "" %}
     <h2>{{ year }}</h2>
     {% assign year_int = year | plus: 0 %}
+    {% assign group_start = year_int | minus: year_int | modulo: 5 %}
+    {% assign group_end = group_start | plus: 5 %}
     {% for pub in site.data.publications %}
-      {% if pub.year == year %}
+      {% assign pub_year_int = pub.year | plus: 0 %}
+      {% if pub_year_int >= group_start and pub_year_int < group_end and pub.year == year %}
         {% if pub.pdf != null %}
           <p><strong>{{ pub.authors }}</strong>, {{ pub.title }}. <em>{{ pub.journal }}</em>, {{ pub.year }}. [<a href="{{ pub.pdf }}">PDF</a>{% if pub.data != null %}, <a href="{{ pub.data }}">Data</a>{% endif %}{% if pub.code != null %}, <a href="{{ pub.code }}">Code</a>{% endif %}]</p>
         {% else %}
@@ -61,6 +67,7 @@ permalink: /publications/
     {% endfor %}
   {% endif %}
 {% endfor %}
+
 
 
 * [2005-09](#y2005)
