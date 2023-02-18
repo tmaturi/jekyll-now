@@ -8,6 +8,9 @@
   optional:
     pdf: http://example.com/paper1.pdf
     code: http://example.com/code1.R
+  categories:
+    - Papers
+    - 2020-24
 
 - title: Example Publication 2
   authors:
@@ -19,6 +22,9 @@
   optional:
     pdf: http://example.com/paper2.pdf
     code: http://example.com/code2.R
+  categories:
+    - Papers
+    - 2020-24
 
 - title: Example Publication 3
   authors:
@@ -30,6 +36,9 @@
   optional:
     pdf: http://example.com/paper3.pdf
     code: http://example.com/code3.R
+  categories:
+    - Proceedings
+    - 2015-19
 
 - title: Example Publication 4
   authors:
@@ -41,6 +50,9 @@
   optional:
     pdf: http://example.com/paper4.pdf
     code: http://example.com/code4.R
+  categories:
+    - Proceedings
+    - 2015-19
 
 - title: Example Publication 5
   authors:
@@ -52,6 +64,9 @@
   optional:
     pdf: http://example.com/paper5.pdf
     code: http://example.com/code5.R
+  categories:
+    - Papers
+    - 2015-19
 
 - title: Example Publication 6
   authors:
@@ -63,3 +78,6 @@
   optional:
     pdf: http://example.com/paper6.pdf
     code: http://example.com/code6.R
+  categories:
+    - Proceedings
+    - 2010-14
