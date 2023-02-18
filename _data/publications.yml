@@ -7,6 +7,7 @@
   link: http://example.com/paper1.pdf
   pdf: http://example.com/paper1.pdf
   code: http://example.com/code1.R
+  type: Article 
 
 - title: Example Publication 2
   authors:
@@ -18,6 +19,7 @@
   optional:
     pdf: http://example.com/paper2.pdf
     code: http://example.com/code2.R
+  type: Proceedings
 
 - title: Example Publication 3
   authors:
@@ -29,9 +31,7 @@
   optional:
     pdf: http://example.com/paper3.pdf
     code: http://example.com/code3.R
-  categories:
-    - Proceedings
-    - 2015-19
+  type: Proceedings
 
 - title: Example Publication 4
   authors:
