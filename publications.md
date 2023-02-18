@@ -47,6 +47,22 @@ permalink: /publications/
 
 
 
+{% assign types = site.data.publications | map: 'type' | uniq %}
+
+{% for type in types %}
+  <h2>{{ type }}</h2>
+  {% assign type_pubs = site.data.publications | where: 'type', type %}
+  {% assign years = type_pubs | map: 'year' | uniq | sort | reverse %}
+  {% for year in years %}
+    <h3>{{ year }}</h3>
+    {% assign year_pubs = type_pubs | where: 'year', year %}
+    {% for pub in year_pubs %}
+      <p>
+        {{ pub.authors }}. "{{ pub.title }}." <em>{{ pub.journal }}</em> {{ pub.volume }}.{{ pub.number }} ({{ pub.year }}): {{ pub.pages }}.
+      </p>
+    {% endfor %}
+  {% endfor %}
+{% endfor %}
 
 
 * [2005-09](#y2005)
