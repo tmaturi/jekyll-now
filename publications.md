@@ -20,10 +20,7 @@ permalink: /publications/
 {% assign publications = site.data.publications %}
 
 {% for publication in publications %}
-## {{ publication.title }}
-
-{{ publication.authors }}, {{ publication.year }}. {{ publication.keywords }}. [Link]({{ publication.link }})
-
+{{ publication.authors }}, {{ publication.year }}. {{ publication.title }}, {{ publication.keywords }}. [Link]({{ publication.link }})
 {% endfor %}
 
 
@@ -33,7 +30,7 @@ permalink: /publications/
 * [2000-04](#y2000)
 * [1995-99](#y1995)
 
-### Journal articles {#journal}{#top}
+### Journal articles {#journal}
 
 - Alqifari, H.N., Coolen, F.P.A., 2019. Robustness of Nonparametric Predictive Inference for Future Order Statistics. Journal of Statistical Theory and Practice. 
 [[PDF]](../pdfs/papers/Alqifari2019.pdf)
