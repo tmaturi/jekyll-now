@@ -4,10 +4,9 @@
     - Jane Smith
   year: 2022
   conference: Proceedings of Example Conference
-  url: http://example.com/paper1.pdf
-  optional:
-    pdf: http://example.com/paper1.pdf
-    code: http://example.com/code1.R
+  link: http://example.com/paper1.pdf
+  pdf: http://example.com/paper1.pdf
+  code: http://example.com/code1.R
 
 - title: Example Publication 2
   authors:
