@@ -66,6 +66,40 @@ permalink: /publications/
 
 
 
+{% for group in site.data.publications | group_by_exp: 'item', 'item.year | date: "%Y"' %}
+  <h2>{{ group.name }}</h2>
+  {% for publication in group.items %}
+    <h3>{{ publication.title }}</h3>
+    <p>{{ publication.author }} ({{ publication.year }})</p>
+    {% if publication.link %}
+      <p><a href="{{ publication.link }}">Link</a></p>
+    {% endif %}
+    {% if publication.pdf %}
+      <p><a href="{{ publication.pdf }}">PDF</a></p>
+    {% endif %}
+    {% if publication.code %}
+      <p><a href="{{ publication.code }}">R Code</a></p>
+    {% endif %}
+  {% endfor %}
+{% endfor %}
+
+
+
+{% for publication in site.data.publications %}
+  <h3>{{ publication.title }}</h3>
+  <p>{{ publication.author }} ({{ publication.year }})</p>
+  {% if publication.link %}
+    <p><a href="{{ publication.link }}">Link</a></p>
+  {% endif %}
+  {% if publication.pdf %}
+    <p><a href="{{ publication.pdf }}">PDF</a></p>
+  {% endif %}
+  {% if publication.code %}
+    <p><a href="{{ publication.code }}">R Code</a></p>
+  {% endif %}
+{% endfor %}
+
+
 * [2005-09](#y2005)
 * [2000-04](#y2000)
 * [1995-99](#y1995)
