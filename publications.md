@@ -90,25 +90,25 @@ permalink: /publications/
 {% endfor %}
 
 
-{% for year in site.data.publications | reverse %}
-  {% assign year_int = year[0] | plus: 0 %}
-  <h2>{{ year_int }}</h2>
-  {% for publication in year[1] %}
-    <div class="publication">
-      <h3>{{ publication.title }}</h3>
-      <p>{{ publication.authors }}. {{ publication.year }}. {{ publication.journal }}.</p>
-      {% if publication.link %}
-        <p><a href="{{ publication.link }}">Link</a></p>
-      {% endif %}
-      {% if publication.pdf %}
-        <p><a href="{{ publication.pdf }}">PDF</a></p>
-      {% endif %}
-      {% if publication.code %}
-        <p><a href="{{ publication.code }}">Code</a></p>
-      {% endif %}
-    </div>
+
+
+{% assign sorted_years = site.publications | sort:"year" | reverse | group_by_exp:"item","item.year | date: '%Y'" %}
+
+{% for year in sorted_years %}
+  <h3 class="year">{{ year.name }}</h3>
+  <ul>
+  {% assign publications_in_year = site.publications | where:"year", year.name %}
+  {% for publication in publications_in_year %}
+    <li class="publication">
+      {{ publication.authors }}. {{ publication.title }}. <em>{{ publication.journal }}</em>, {{ publication.year }}{% if publication.volume %}, {{ publication.volume }}{% endif %}{% if publication.pages %}, {{ publication.pages }}.{% endif %}
+      {% if publication.link %}<br/><a href="{{ publication.link }}">Link</a>{% endif %}
+      {% if publication.pdf %}<br/><a href="{{ publication.pdf }}">PDF</a>{% endif %}
+      {% if publication.code %}<br/><a href="{{ publication.code }}">Code</a>{% endif %}
+    </li>
   {% endfor %}
+  </ul>
 {% endfor %}
+
 
 
 
