@@ -50,14 +50,14 @@ permalink: /publications/
 {% assign types = site.data.publications | map: 'type' | uniq %}
 
 {% for type in types %}
-  <h2>{{ type }}</h2>
+## {{ type }}
   {% assign type_pubs = site.data.publications | where: 'type', type %}
   {% assign years = type_pubs | map: 'year' | uniq | sort | reverse %}
   {% for year in years %}
-    <h3>{{ year }}</h3>
+   ### {{ year }}
     {% assign year_pubs = type_pubs | where: 'year', year %}
     {% for pub in year_pubs %}
-        {{ pub.authors | join: ', '}} ({{ pub.year }}). {{ pub.title }}, {{ pub.journal }}, {{ pub.volume }}, {{ pub.number }}: {{ pub.pages }}.
+ {{ pub.authors | join: ', '}} ({{ pub.year }}). {{ pub.title }}, {{ pub.journal }}.
     {% if pub.link %}[[Link]]({{ pub.link }}){% endif %}
     {% if pub.pdf %} [[PDF]]({{ pub.pdf }}) {% endif %}
     {% if publ.code %}[[Rcode]]({{ pub.code }}){% endif %}
