@@ -33,27 +33,36 @@ permalink: /publications/
 {% endfor %}
 
 
+{% assign publications_by_first_category = site.publications | group_by: 'categories[0]' %}
 
-{% assign publications = site.data.publications | sort: 'year' | reverse %}
+{% for first_category in publications_by_first_category %}
+  <h2>{{ first_category.name }}</h2>
+  {% assign publications_by_second_category = first_category.items | group_by: 'categories[1]' %}
+  {% for second_category in publications_by_second_category %}
+    <h3>{{ second_category.name }}</h3>
+    <ul>
+      {% for publication in second_category.items %}
+        <li>
+          <strong>{{ publication.title }}</strong> {% if publication.coauthors %} (with {{ publication.coauthors }}){% endif %}
+          <br>
+          {{ publication.authors }}
+          <br>
+          {{ publication.year }}, {{ publication.venue }}
+          {% if publication.link %}
+            [<a href="{{ publication.link }}">link</a>]
+          {% endif %}
+          {% if publication.pdf %}
+            [<a href="{{ publication.pdf }}">pdf</a>]
+          {% endif %}
+          {% if publication.code %}
+            [<a href="{{ publication.code }}">code</a>]
+          {% endif %}
+        </li>
+      {% endfor %}
+    </ul>
+  {% endfor %}
+{% endfor %}
 
-{% for year in (publications | map: 'year' | uniq) %}
-<h2>{{ year }} - {{ year | plus: 4 }}</h2>
-{% assign pubs_in_year = publications | where: "year", year %}
-{% for pub in pubs_in_year %}
-<div>
-  {{ pub.authors }}. "{{ pub.title }}." <em>{{ pub.journal }}</em>, {{ pub.year }}.
-  {% if pub.link %}
-    <a href="{{ pub.link }}">[link]</a>
-  {% endif %}
-  {% if pub.pdf %}
-    <a href="{{ pub.pdf }}">[pdf]</a>
-  {% endif %}
-  {% if pub.code %}
-    <a href="{{ pub.code }}">[code]</a>
-  {% endif %}
-</div>
-{% endfor %}
-{% endfor %}
 
 
 
