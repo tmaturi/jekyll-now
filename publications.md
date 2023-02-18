@@ -18,7 +18,6 @@ permalink: /publications/
 # Publications
 
 {% assign publications = site.data.publications %}
-
 {% for publication in publications %}
 {{ publication.authors }}, {{ publication.year }}. {{ publication.title }}, {{ publication.keywords }}. [Link]({{ publication.link }})
 {% endfor %}
