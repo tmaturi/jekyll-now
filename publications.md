@@ -22,13 +22,7 @@ permalink: /publications/
 {% for publication in publications %}
 ## {{ publication.title }}
 
-*Authors:* {{ publication.authors }}
-
-*Year:* {{ publication.year }}
-
-*Keywords:* {{ publication.keywords }}
-
-[Link]({{ publication.link }})
+{{ publication.authors }}, {{ publication.year }}. {{ publication.keywords }}. [Link]({{ publication.link }})
 
 {% endfor %}
 
