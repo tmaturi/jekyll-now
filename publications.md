@@ -57,9 +57,11 @@ permalink: /publications/
     <h3>{{ year }}</h3>
     {% assign year_pubs = type_pubs | where: 'year', year %}
     {% for pub in year_pubs %}
-      <p>
-        {{ pub.authors }}. "{{ pub.title }}." <em>{{ pub.journal }}</em> {{ pub.volume }}.{{ pub.number }} ({{ pub.year }}): {{ pub.pages }}.
-      </p>
+        {{ pub.authors | join: ', '}}. "{{ pub.title }}." <em>{{ pub.journal }}</em> {{ pub.volume }}.{{ pub.number }} ({{ pub.year }}): {{ pub.pages }}.
+    {% if pub.link %}[[Link]]({{ pub.link }}){% endif %}
+    {% if pub.pdf %} [[PDF]]({{ pub.pdf }}) {% endif %}
+    {% if publ.code %}[[Rcode]]({{ pub.code }}){% endif %}
+    
     {% endfor %}
   {% endfor %}
 {% endfor %}
