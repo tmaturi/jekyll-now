@@ -4,53 +4,16 @@ title: Publications
 permalink: /publications/
 ---
 
-<div>
-  <input type="text" id="search-box" placeholder="Search publications...">
-</div>
 
-<div id="search-results"></div>
-
-
-
-
-
-<div class="search-box">
-  <form>
-    <label for="year">Year:</label>
-    <input type="text" id="year" name="year">
-    <label for="keywords">Keywords:</label>
-    <input type="text" id="keywords" name="keywords">
-    <button type="submit">Search</button>
-  </form>
-</div>
 
 
 # Publications
-
-{% assign publications = site.data.publications %}
-{% for publication in publications %}
-{{ publication.authors }}, {{ publication.year }}. {{ publication.title }}, {{ publication.keywords }}. [Link]({{ publication.link }})
-{% endfor %}
-
-
-{% assign publications_by_year = site.data.publications | group_by_exp:"item", "item.year" %}
-
-{% for year in publications_by_year %}
-  <h3>{{ year.name }}</h3>
-  {% for publication in year.items %}
-{{ publication.authors | join: ', '}}, {{ publication.year }}. {{ publication.title }}, {{ publication.keywords }}.
-    {% if publication.link %}[[Link]]({{ publication.link }}){% endif %}
-    {% if publication.pdf %} [[PDF]]({{ publication.pdf }}) {% endif %}
-    {% if publication.code %}[[Rcode]]({{ publication.code }}){% endif %}
-  {% endfor %}
-{% endfor %}
-
 
 
 {% assign types = site.data.publications | map: 'type' | uniq %}
 
 {% for type in types %}
- **{{ type }}**
+ **{{ type }}** {#type}
   {% assign type_pubs = site.data.publications | where: 'type', type %}
   {% assign years = type_pubs | map: 'year' | uniq | sort | reverse %}
   {% for year in years %}
@@ -69,6 +32,9 @@ permalink: /publications/
 * [2005-09](#y2005)
 * [2000-04](#y2000)
 * [1995-99](#y1995)
+
+* [Article](#Article)
+
 
 ### Journal articles {#journal}
 
