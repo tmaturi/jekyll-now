@@ -90,6 +90,28 @@ permalink: /publications/
 {% endfor %}
 
 
+{% for year in site.data.publications | reverse %}
+  {% assign year_int = year[0] | plus: 0 %}
+  <h2>{{ year_int }}</h2>
+  {% for publication in year[1] %}
+    <div class="publication">
+      <h3>{{ publication.title }}</h3>
+      <p>{{ publication.authors }}. {{ publication.year }}. {{ publication.journal }}.</p>
+      {% if publication.link %}
+        <p><a href="{{ publication.link }}">Link</a></p>
+      {% endif %}
+      {% if publication.pdf %}
+        <p><a href="{{ publication.pdf }}">PDF</a></p>
+      {% endif %}
+      {% if publication.code %}
+        <p><a href="{{ publication.code }}">Code</a></p>
+      {% endif %}
+    </div>
+  {% endfor %}
+{% endfor %}
+
+
+
 * [2005-09](#y2005)
 * [2000-04](#y2000)
 * [1995-99](#y1995)
