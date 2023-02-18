@@ -8,23 +8,17 @@
   optional:
     pdf: http://example.com/paper1.pdf
     code: http://example.com/code1.R
-  categories:
-    - Papers
-    - 2020-24
 
 - title: Example Publication 2
   authors:
     - John Doe
     - Jane Smith
-  year: 2020
+  year: 2022
   conference: Proceedings of Another Conference
   url: http://example.com/paper2.pdf
   optional:
     pdf: http://example.com/paper2.pdf
     code: http://example.com/code2.R
-  categories:
-    - Papers
-    - 2020-24
 
 - title: Example Publication 3
   authors:
