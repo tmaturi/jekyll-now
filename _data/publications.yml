@@ -3,13 +3,15 @@
   year: 2022
   keywords: Keyword 1, Keyword 2, Keyword 3
   link: Link to the publication
+  group: 2020-24
   
   
 - title: Title of your publication
   authors: Author 1, Author 2, Author 3
-  year: 2019
+  year: 2009
   keywords: Keyword 1, Keyword 2, Keyword 3
   link: Link to the publication
+  group: 2005-09
   
   
   
@@ -18,12 +20,14 @@
   year: 2010
   keywords: Keyword 1, Keyword 2, Keyword 3
   link: Link to the publication
+  group: 2010-14
   
   
 - title: Title of your publication
   authors: Author 1, Author 2, Author 3
-  year: 2019
+  year: 2000
   keywords: Keyword 1, Keyword 2, Keyword 3
   link: Link to the publication
+  group: 2000-04
   
   
