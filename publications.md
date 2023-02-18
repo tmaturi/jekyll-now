@@ -40,13 +40,13 @@ permalink: /publications/
   {% for publication in year.items %}
 {{ publication.authors | join: ', '}}, {{ publication.year }}. {{ publication.title }}, {{ publication.keywords }}.
     {% if publication.link %}
-    <p><a href="{{ publication.link }}">Link</a></p>
+    [Link]({{ publication.link }})
     {% endif %}
     {% if publication.pdf %}
-    <p><a href="{{ publication.pdf }}">PDF</a></p>
+    [PDF]({{ publication.pdf }})
     {% endif %}
     {% if publication.code %}
-    <p><a href="{{ publication.code }}">Code</a></p>
+    [Rcode]({{ publication.code }})
     {% endif %}
   {% endfor %}
 {% endfor %}
