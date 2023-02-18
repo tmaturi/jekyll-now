@@ -33,7 +33,7 @@ permalink: /publications/
 {% endfor %}
 
 
-{% assign publications_by_year = site.data.publications | group_by_exp:"item", "item.year" | reverse %}
+{% assign publications_by_year = site.data.publications | group_by_exp:"item", "item.year" %}
 
 {% for year in publications_by_year %}
   <h2>{{ year.name }}</h2>
