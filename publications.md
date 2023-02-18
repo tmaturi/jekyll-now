@@ -64,6 +64,30 @@ permalink: /publications/
 {% endfor %}
 
 
+{% assign categories = site.data.publications | map: 'category1' | concat: site.data.publications | map: 'category2' %}
+{% assign unique_categories = categories | uniq %}
+
+{% for category in unique_categories %}
+  <h2>{{ category }}</h2>
+  {% assign publications_in_category = site.data.publications | where: 'category1', category %}
+  {% assign publications_in_category = publications_in_category | concat: site.data.publications | where: 'category2', category %}
+
+  {% for publication in publications_in_category %}
+    <div>
+      <h3>{{ publication.title }}</h3>
+      <p>{{ publication.authors }}, {{ publication.year }}</p>
+      {% if publication.link %}
+        <p><a href="{{ publication.link }}">Link</a></p>
+      {% endif %}
+      {% if publication.pdf %}
+        <p><a href="{{ publication.pdf }}">PDF</a></p>
+      {% endif %}
+      {% if publication.code %}
+        <p><a href="{{ publication.code }}">Code</a></p>
+      {% endif %}
+    </div>
+  {% endfor %}
+{% endfor %}
 
 
 * [2005-09](#y2005)
