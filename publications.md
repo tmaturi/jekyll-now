@@ -50,11 +50,11 @@ permalink: /publications/
 {% assign types = site.data.publications | map: 'type' | uniq %}
 
 {% for type in types %}
-## {{ type }}
+ **{{ type }}**
   {% assign type_pubs = site.data.publications | where: 'type', type %}
   {% assign years = type_pubs | map: 'year' | uniq | sort | reverse %}
   {% for year in years %}
-   ### {{ year }}
+   **{{ year }}**
     {% assign year_pubs = type_pubs | where: 'year', year %}
     {% for pub in year_pubs %}
  {{ pub.authors | join: ', '}} ({{ pub.year }}). {{ pub.title }}, {{ pub.journal }}.
