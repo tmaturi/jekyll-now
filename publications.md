@@ -34,11 +34,6 @@ permalink: /publications/
 
 
 
----
-layout: default
-title: Publications
----
-
 {% assign publications = site.data.publications | sort: 'year' | reverse %}
 
 {% for year in (publications | map: 'year' | uniq) %}
